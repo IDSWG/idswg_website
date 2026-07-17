@@ -6,7 +6,7 @@ website:
   title: "DahShu IDSWG"
   description: "Innovative Design Scientific Working Group: Advancing Innovative Clinical Trial Design Worldwide"
   favicon: images/IDSWG_Logo.png
-  site-url: "https://idswg.github.io"
+  site-url: "https://idswg.github.io/idswg_website"
   search: true
   open-graph:
     image: images/IDSWG_Banner.png
