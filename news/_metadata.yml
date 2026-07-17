@@ -1,0 +1,7 @@
+# Metadata applied to all pages in news/ directory
+# Ensures correct path resolution for listing pages
+website:
+  page-footer:
+    left: "© 2025 DahShu IDSWG"
+    center: ""
+    right: ""

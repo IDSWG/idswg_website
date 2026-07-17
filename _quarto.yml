@@ -1,0 +1,83 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "DahShu IDSWG"
+  description: "Innovative Design Scientific Working Group: Advancing Innovative Clinical Trial Design Worldwide"
+  favicon: images/IDSWG_Logo.png
+  site-url: "https://idswg.github.io"
+  search: true
+  open-graph:
+    image: images/IDSWG_Banner.png
+    site-name: "DahShu IDSWG"
+  twitter-card:
+    image: images/IDSWG_Banner.png
+
+  navbar:
+    background: "#0D2B6B"
+    foreground: "white"
+    logo: images/IDSWG_Logo_white.png
+    logo-alt: "IDSWG Logo"
+    logo-href: index.qmd
+    search: true
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Sub-teams"
+        menu:
+          - text: "All Sub-teams"
+            href: subteams.qmd
+          - text: "StatBridge / Future Leaders"
+            href: statbridge.qmd
+          - text: "---"
+          - text: "Master Protocols (MPWG)"
+            href: subteam-pages/mpwg.qmd
+          - text: "Randomization"
+            href: subteam-pages/randomization.qmd
+          - text: "NEED, Rare Diseases"
+            href: subteam-pages/need.qmd
+          - text: "AI/Integrated Scientific Learning"
+            href: subteam-pages/aiml.qmd
+          - text: "Oncology"
+            href: subteam-pages/oncology.qmd
+          - text: "Real-World Evidence"
+            href: subteam-pages/rwe.qmd
+          - text: "Decision-Making"
+            href: subteam-pages/decision-making.qmd
+      - text: "Events & KOL"
+        href: events.qmd
+      - text: "Resources"
+        menu:
+          - text: "Regulatory Guidance"
+            href: resources.qmd
+          - text: "Slides & Materials"
+            href: presentations.qmd
+      - text: "News"
+        href: news/index.qmd
+      - text: "Join Us"
+        href: join.qmd
+
+  page-footer:
+    background: "#0D2B6B"
+    foreground: "white"
+    left: "© 2025 DahShu Innovative Design Scientific Working Group"
+    center: "[LinkedIn Community](https://www.linkedin.com/groups/18890018/){.footer-link}"
+    right: ""
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    title-block-banner: false
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@300;400;600;700&display=swap" rel="stylesheet">
+    include-before-body:
+      - _includes.html

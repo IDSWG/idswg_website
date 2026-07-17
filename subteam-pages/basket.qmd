@@ -1,0 +1,10 @@
+---
+pagetitle: "Basket Trials | DahShu IDSWG"
+page-layout: full
+---
+
+```{=html}
+<meta http-equiv="refresh" content="0; url=mpwg.html" />
+<script>window.location.replace("mpwg.html");</script>
+<p>Redirecting to the <a href="mpwg.html">Master Protocol Working Group page</a>, Basket Trials is a sub-stream of the MPWG.</p>
+```

@@ -1,0 +1,87 @@
+---
+pagetitle: "StatBridge Future Leaders | DahShu IDSWG"
+description: "The StatBridge Future Leaders Program, supporting early-career biostatisticians at the intersection of academia and clinical practice."
+image: /images/IDSWG_Banner.png
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-statbridge" id="main-content">
+  <h1>StatBridge Future Leaders Program</h1>
+  <p class="lead">Bridging academic biostatistics and clinical practice, building the next generation of innovative trial design leaders.</p>
+</div>
+<div class="page-jumpnav" aria-label="StatBridge sections">
+  <a href="#about">About the Program</a>
+  <a href="#what-we-offer">What We Offer</a>
+  <a href="#who">Who Should Join</a>
+  <a href="#get-involved">Get Involved</a>
+</div>
+```
+
+::: {.content-section}
+## About the Program {#about}
+
+The **StatBridge Future Leaders Program** is an IDSWG initiative designed to support early-career biostatisticians and data scientists at the intersection of academic training and clinical practice. The program grew from a recognized gap: biostatisticians emerging from graduate programs often have strong methodological foundations but limited exposure to the practical realities of pharmaceutical drug development, regulatory interactions, and cross-functional team dynamics.
+
+StatBridge addresses that gap through mentorship, structured exposure to IDSWG sub-team work, and professional development opportunities within a global community of quantitative scientists.
+
+**Program Co-Leads:**
+
+- **Bryan McComb, Ph.D.**, Associate Director of Biostatistics, Pfizer; Co-Leader of External Collaborations, IDSWG
+- **Courtney Henry, Ph.D.**, GSK; Co-Leader of Community, IDSWG
+
+## What We Offer {#what-we-offer}
+
+```{=html}
+<div class="pillar-grid">
+  <div class="pillar-card">
+    <span class="pillar-icon"><i class="bi bi-person-lines-fill"></i></span>
+    <h4>Mentorship</h4>
+    <p>Pairing with experienced biostatisticians from pharma, academia, and regulatory settings. Mentors offer career guidance, project feedback, and professional network introductions.</p>
+  </div>
+  <div class="pillar-card">
+    <span class="pillar-icon"><i class="bi bi-building-fill"></i></span>
+    <h4>Sub-team Exposure</h4>
+    <p>Opportunities to observe and contribute to active IDSWG sub-teams, gaining experience in collaborative scientific work, publication processes, and regulatory engagement.</p>
+  </div>
+  <div class="pillar-card">
+    <span class="pillar-icon"><i class="bi bi-mic-fill"></i></span>
+    <h4>Presentation Opportunities</h4>
+    <p>Pathways to present at IDSWG events, including the annual meeting, KOL Lecture Series, and major conferences such as JSM and SCT.</p>
+  </div>
+  <div class="pillar-card">
+    <span class="pillar-icon"><i class="bi bi-people-fill"></i></span>
+    <h4>Community</h4>
+    <p>Access to a global network of quantitative scientists from pharmaceutical companies, academic institutions, biotech firms, and health authorities across the US, Europe, and Japan.</p>
+  </div>
+</div>
+```
+
+## Who Should Join {#who}
+
+The StatBridge program is designed for:
+
+- **Graduate students** in biostatistics, statistics, data science, or related quantitative fields who are interested in pharmaceutical or clinical research careers
+- **Early-career biostatisticians** (typically within the first five years post-PhD or MS) working in academia, industry, or government who want to deepen their exposure to innovative trial design
+- **Academic researchers** who collaborate with industry or regulatory bodies and want to strengthen those connections
+
+There are no formal requirements for participation. The program is open to members from all geographic locations and institutional backgrounds. Students and early-career professionals with backgrounds in patient advocacy, health communications, or clinical research operations are also welcome, the program values diverse perspectives on what makes trial design work in practice.
+
+## Get Involved {#get-involved}
+
+**As a participant or mentee:** Reach out to Bryan McComb or Courtney Henry to express your interest. A brief introduction and statement of what you hope to gain from the program is sufficient to get started.
+
+**As a mentor:** Experienced IDSWG members with 10+ years in the field are encouraged to volunteer as mentors. The commitment is flexible, typically one to two hours per month.
+
+**As an organizational partner:** If your institution, company, or program is interested in collaborating, for example, by co-hosting a workshop, please contact the co-leads.
+
+```{=html}
+<div class="cta-box">
+  <h3>Ready to Connect?</h3>
+  <p>Contact either StatBridge co-lead to learn more or express your interest in the program.</p>
+  <a href="mailto:bryan.mccomb@pfizer.com" class="btn-cta">Email Bryan McComb</a>
+  <a href="mailto:courtney.n.henry@gsk.com" class="btn-cta btn-cta-outline">Email Courtney Henry</a>
+</div>
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

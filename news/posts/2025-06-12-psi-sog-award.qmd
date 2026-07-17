@@ -1,0 +1,15 @@
+---
+title: "Randomization Working Group Named PSI SIG of the Year"
+date: 2025-06-12
+description: "The IDSWG Randomization Working Group received the PSI Special Interest Group of the Year award in recognition of its contributions to randomization methodology."
+categories: [Award]
+image: /images/IDSWG_Banner.png
+---
+
+The IDSWG Randomization Working Group has been named **PSI Special Interest Group of the Year** for 2025, a recognition of its sustained contributions to randomization methodology in clinical trials.
+
+The Randomization WG is co-chaired by Johannes Krisam and Kerstine Carter (both Boehringer Ingelheim) and Alex Sverdlov (Novartis). The group currently has approximately 50 active and inactive members spanning pharmaceutical industry (19), academia (24), and other organizations (7), with representation across Europe/UK and the USA.
+
+The WG's work focuses on moving beyond standard permuted-block randomization to bring awareness of modern methodological advances in the field. Activities include monthly member meetings, open learning sessions, a [dedicated website](https://www.randomizationwg.com), and a growing library of publications, slide sets, and educational resources.
+
+Congratulations to the Randomization WG team on this well-deserved recognition.

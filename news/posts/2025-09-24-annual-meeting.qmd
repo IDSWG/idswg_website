@@ -1,0 +1,21 @@
+---
+title: "Annual Meeting Recap, September 24, 2025"
+date: 2025-09-24
+description: "IDSWG held its annual meeting featuring introductory talks, sub-team updates, and a preview of the StatBridge Future Leaders Program."
+categories: [Event]
+image: /images/IDSWG_Banner.png
+---
+
+The IDSWG held its annual face-to-face meeting on September 24, 2025, bringing together members from across the group's sub-teams and initiatives.
+
+The evening opened with welcome remarks from Chair Bob Beckman, followed by introductory presentations on the IDSWG, DahShu, and collaboration opportunities with the Bayesian Scientific Working Group (BSWG). Bryan McComb presented the StatBridge Future Leaders Program, highlighting the initiative's goals and upcoming activities.
+
+Sub-team reports covered the Master Protocol Working Group (Concept, Methodology and Framework; Regulatory), the Randomization Working Group, the AI/ML Sub-team, the NEED Sub-team for Rare Diseases, and the KOL Lecture Series.
+
+Key updates from the meeting:
+
+- The Concept, Methodology and Framework sub-stream of the MPWG is undergoing a reboot under new leadership from Bryan McComb and Courtney Henry. New members are welcome.
+- The Regulatory Sub-team is seeking volunteers to support the 2020–2025 Systematic Literature Review update.
+- Two leadership positions remain open for the 2025–2026 term, nominations are welcome.
+
+The next annual meeting date will be announced via the DahShu community. [Subscribe to receive updates](https://dahshu.wildapricot.org).

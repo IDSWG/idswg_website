@@ -1,0 +1,107 @@
+{
+  "404.qmd": {
+    "404.html": "8746ea69"
+  },
+  "about.qmd": {
+    "about.html": "a6604c07"
+  },
+  "events.qmd": {
+    "events.html": "0c78f204"
+  },
+  "GOLIVE_CHECKLIST.md": {
+    "GOLIVE_CHECKLIST.html": "bd007a42"
+  },
+  "index.qmd": {
+    "index.html": "ba3e7962"
+  },
+  "join.qmd": {
+    "join.html": "93f81071"
+  },
+  "news/index.qmd": {
+    "index.html": "9142517f"
+  },
+  "news/posts/2025-01-15-platform-trials-paper.qmd": {
+    "2025-01-15-platform-trials-paper.html": "12915052"
+  },
+  "news/posts/2025-03-01-cell-gene-therapy-paper.qmd": {
+    "2025-03-01-cell-gene-therapy-paper.html": "c7dd5f57"
+  },
+  "news/posts/2025-06-12-psi-sog-award.qmd": {
+    "2025-06-12-psi-sog-award.html": "326d3a69"
+  },
+  "news/posts/2025-09-21-risw-2025-presentation.qmd": {
+    "2025-09-21-risw-2025-presentation.html": "7b2952d4"
+  },
+  "news/posts/2025-09-24-annual-meeting.qmd": {
+    "2025-09-24-annual-meeting.html": "3a224cea"
+  },
+  "news/posts/index.qmd": {
+    "index.html": "2d1a8ad9"
+  },
+  "presentations.qmd": {
+    "presentations.html": "74f74e30"
+  },
+  "publications.qmd": {
+    "publications.html": "20131805"
+  },
+  "regulatory.qmd": {
+    "regulatory.html": "3793a255"
+  },
+  "repository.qmd": {
+    "repository.html": "adc74dce"
+  },
+  "resources.qmd": {
+    "resources.html": "92ee63dc"
+  },
+  "statbridge.qmd": {
+    "statbridge.html": "057dac48"
+  },
+  "subteam-pages/aiml.qmd": {
+    "aiml.html": "b7075d1b"
+  },
+  "subteam-pages/basket.qmd": {
+    "basket.html": "d8768210"
+  },
+  "subteam-pages/decision-making.qmd": {
+    "decision-making.html": "0890b334"
+  },
+  "subteam-pages/index.qmd": {
+    "index.html": "1402a3be"
+  },
+  "subteam-pages/kol.qmd": {
+    "kol.html": "d106212e"
+  },
+  "subteam-pages/mpwg-basket.qmd": {
+    "mpwg-basket.html": "171037cb"
+  },
+  "subteam-pages/mpwg-methodology.qmd": {
+    "mpwg-methodology.html": "950c5c24"
+  },
+  "subteam-pages/mpwg-operations.qmd": {
+    "mpwg-operations.html": "677961b8"
+  },
+  "subteam-pages/mpwg-patient-engagement.qmd": {
+    "mpwg-patient-engagement.html": "49684593"
+  },
+  "subteam-pages/mpwg-regulatory.qmd": {
+    "mpwg-regulatory.html": "a35717d8"
+  },
+  "subteam-pages/mpwg.qmd": {
+    "mpwg.html": "b28cde47"
+  },
+  "subteam-pages/need.qmd": {
+    "need.html": "77a92f7c"
+  },
+  "subteam-pages/oncology.qmd": {
+    "oncology.html": "ee7f34c3"
+  },
+  "subteam-pages/randomization.qmd": {
+    "randomization.html": "67973eff"
+  },
+  "subteam-pages/rwe.qmd": {
+    "rwe.html": "80982960"
+  },
+  "subteams.qmd": {
+    "subteams.html": "40dd1415"
+  }
+}

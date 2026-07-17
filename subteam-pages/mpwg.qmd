@@ -1,0 +1,98 @@
+---
+pagetitle: "Master Protocol Working Group | DahShu IDSWG"
+description: "ASA-DahShu Master Protocol Working Group, platform, basket, and umbrella trial design methodology across five active sub-streams."
+image: /images/IDSWG_Banner.png
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-subteams" id="main-content">
+  <h1>Master Protocols (ASA-DahShu MPWG)</h1>
+  <p class="lead">A joint Working Group with ASA and BSWG advancing the design, analysis, and implementation of master protocol clinical trials through five active sub-streams.</p>
+</div>
+<div class="page-jumpnav" aria-label="MPWG sections">
+  <a href="#overview">Overview</a>
+  <a href="#sub-streams">Sub-streams</a>
+  <a href="#current-projects">Current Projects</a>
+  <a href="#publications">Publications</a>
+</div>
+```
+
+::: {.content-section}
+
+## Overview {#overview}
+
+The ASA-DahShu IDSWG Master Protocol Working Group (MPWG) is a joint effort co-chaired by **Cindy Lu** (AstraZeneca) and **Robert Beckman, M.D.** (Georgetown University), operating under the American Statistical Association, DahShu IDSWG, and Bayesian Scientific Working Group umbrella.
+
+The MPWG focuses on the methodology, regulatory landscape, and operational implementation of master protocols, covering basket, umbrella, and platform trials that evaluate multiple treatments or patient populations within a single overarching study framework.
+
+## Sub-streams {#sub-streams}
+
+The MPWG operates through five active sub-streams. Click any card to learn more about the sub-stream's focus, members, and current work.
+
+```{=html}
+<div class="subteam-grid" style="margin-top:1.25rem;">
+
+  <div class="subteam-card" style="cursor:pointer;" onclick="location.href='mpwg-methodology.html'">
+    <h4><a href="mpwg-methodology.qmd">Methodology &amp; Concept</a></h4>
+    <div class="subteam-leads">Bryan McComb, Ph.D. (Pfizer) · Courtney Henry, Ph.D. (GSK)</div>
+    <p>Framework development, simulation methodology, estimand considerations, and the conceptual foundations of basket, umbrella, and platform trial design. New members actively welcome.</p>
+    <p style="margin-top:0.5rem;margin-bottom:0;"><a href="mpwg-methodology.qmd" style="font-size:0.83rem;font-weight:600;">Learn more →</a></p>
+  </div>
+
+  <div class="subteam-card" style="cursor:pointer;" onclick="location.href='mpwg-regulatory.html'">
+    <h4><a href="mpwg-regulatory.qmd">Regulatory</a></h4>
+    <div class="subteam-leads">Peter Mesenbrink (Novartis)</div>
+    <p>Monitoring FDA and EMA guidance, coordinating regulatory engagement, and maintaining the systematic literature review of master protocol trials. Volunteers needed for full-text review.</p>
+    <p style="margin-top:0.5rem;margin-bottom:0;"><a href="mpwg-regulatory.qmd" style="font-size:0.83rem;font-weight:600;">Learn more →</a></p>
+  </div>
+
+  <div class="subteam-card" style="cursor:pointer;" onclick="location.href='mpwg-basket.html'">
+    <h4><a href="mpwg-basket.qmd">Basket Trials</a></h4>
+    <div class="subteam-leads">Robert A. Beckman, M.D. (Georgetown University)</div>
+    <p>Confirmatory basket trial design, simulation-based evaluation, and real-world data applications. 17-member team spanning pharma, academia, and regulatory backgrounds.</p>
+    <p style="margin-top:0.5rem;margin-bottom:0;"><a href="mpwg-basket.qmd" style="font-size:0.83rem;font-weight:600;">Learn more →</a></p>
+  </div>
+
+  <div class="subteam-card" style="cursor:pointer;" onclick="location.href='mpwg-operations.html'">
+    <h4><a href="mpwg-operations.qmd">Operations</a></h4>
+    <div class="subteam-leads">Matthew Gribben (Amgen) · Marianne Chase (Mass General Brigham)</div>
+    <p>Cross-functional and strategic challenges of running master protocol trials. Active survey comparing company-sponsored and non-profit-sponsored platform trials, supporting a 2026 SCT submission.</p>
+    <p style="margin-top:0.5rem;margin-bottom:0;"><a href="mpwg-operations.qmd" style="font-size:0.83rem;font-weight:600;">Learn more →</a></p>
+  </div>
+
+  <div class="subteam-card" style="cursor:pointer;border-left-color:#9ca3af;" onclick="location.href='mpwg-patient-engagement.html'">
+    <h4><a href="mpwg-patient-engagement.qmd" style="color:#6b7280;">Patient Engagement</a> <span style="font-size:0.72rem;background:#f3f4f6;color:#6b7280;padding:0.1rem 0.45rem;border-radius:2px;vertical-align:middle;font-weight:600;">On Hold</span></h4>
+    <div class="subteam-leads" style="color:#9ca3af;">Lead: TBD, reconvening January 2026</div>
+    <p style="color:#9ca3af;">Integrating patient and caregiver perspectives into master protocol trial design from the earliest stages. Seeking a new sub-stream lead.</p>
+    <p style="margin-top:0.5rem;margin-bottom:0;"><a href="mpwg-patient-engagement.qmd" style="font-size:0.83rem;font-weight:600;">Learn more →</a></p>
+  </div>
+
+</div>
+```
+
+## Current Projects {#current-projects}
+
+- **Book:** *Master Protocol Clinical Trial for Efficient Evidence Generation*, co-edited by Robert A. Beckman and Zoran Antonijevic. 12 of 20 chapters submitted to publisher as of September 2025, nearing final publication.
+- **Survey (active):** The Operations sub-stream is collecting responses comparing pharma/biotech-sponsored and academic/non-profit-sponsored platform trials. Responses will support a 2026 SCT submission. Contact Marianne Chase or Matthew Gribben to participate.
+- **Manuscripts in preparation:** Three MPWG manuscripts currently in preparation, including a multidisciplinary summary targeting *Contemporary Clinical Trials* and a subgroup heterogeneity analysis across 36 Phase 3 trials.
+- **Systematic Literature Review update:** Covering master protocol publications from 2020–2025. Volunteers needed for full-text review, contact Peter Mesenbrink.
+
+## Publications {#publications}
+
+- Wu Y, Lu C, Aregay M et al. Company Sponsored Platform Trials: Recommendations and Lessons Learned from Cross-Industry Interviews. *Therapeutic Innovation and Regulatory Science* (2025). [doi:10.1007/s43441-025-00792-0](https://doi.org/10.1007/s43441-025-00792-0)
+- Beckman RA, Collyar D, Cooner F et al. ASA BIOP section newsletter on ASA DahShu IDSWG Multidisciplinary Master Protocol Working Group. *ASA Biopharmaceutical Section Newsletter*, 30(2): 50–52 (2023).
+- Huml RA, Collyar D, Antonijevic Z, Beckman RA et al. Aiding the adoption of master protocols by optimizing patient engagement. *Therapeutic Innovation and Regulatory Science*, 57: 1136–1147 (2023).
+- Lu C*, Beckman RA* et al. Tumor agnostic approvals: insights and practical considerations. *Clinical Cancer Research*, 30: 480–488 (2024).
+
+A full list of MPWG publications will be available soon.
+
+## Get Involved
+
+New members are welcome across all sub-streams, with particular need in Methodology & Concept and Regulatory. Contact the [IDSWG Leadership Team](../join.qmd) or reach out to the relevant sub-stream lead directly.
+
+```{=html}
+<p style="margin-top:1.5rem;"><a href="../subteams.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> All Sub-teams</a></p>
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

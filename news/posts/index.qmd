@@ -1,0 +1,10 @@
+---
+pagetitle: "News, DahShu IDSWG"
+page-layout: full
+---
+
+```{=html}
+<meta http-equiv="refresh" content="0; url=../../news/index.html" />
+<script>window.location.replace("../../news/index.html");</script>
+<p>Redirecting to <a href="../../news/index.html">News</a>…</p>
+```

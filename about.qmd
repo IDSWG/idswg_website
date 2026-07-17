@@ -1,0 +1,176 @@
+---
+pagetitle: "About | DahShu IDSWG"
+description: "Leadership team, organizational structure, and membership information for the DahShu IDSWG."
+image: /images/IDSWG_Banner.png
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-about" id="main-content">
+  <h1>About the IDSWG</h1>
+  <p class="lead">Leadership, organizational structure, and the people driving the group's scientific agenda.</p>
+</div>
+<div class="page-jumpnav" aria-label="Page sections">
+  <a href="#leadership-team">Leadership</a>
+  <a href="#organizational-structure">Structure</a>
+  <a href="#membership">Membership</a>
+  <a href="#about-dahshu">DahShu</a>
+</div>
+```
+
+::: {.content-section}
+## Leadership Team {#leadership-team}
+
+The IDSWG is led by a volunteer leadership team drawn from pharmaceutical industry, academic medicine, and the broader biostatistics community. Leadership positions are appointed by Core Team vote, with nominations welcomed from the membership.
+
+```{=html}
+<!-- Chair -->
+<div class="leader-grid" style="margin-bottom:1rem;">
+  <div class="leader-card leader-chair">
+    <div class="leader-header">
+      <div class="avatar avatar-rab" aria-hidden="true">RAB</div>
+      <div class="leader-meta">
+        <h4>Robert A. Beckman, M.D.</h4>
+        <div class="leader-title"><i class="bi bi-star-fill" style="color:#0D2B6B;font-size:0.75rem;margin-right:3px;"></i> Chair</div>
+        <div class="leader-affil">Georgetown University Medical Center, Professor of Oncology and Biostatistics, Bioinformatics &amp; Biomathematics</div>
+      </div>
+    </div>
+    <div class="leader-responsibilities">
+      Leads and coordinates the efforts of the leadership team and provides strategic direction to the group. Chairs core team meetings. Serves as liaison with sponsors (currently DahShu), participates in sponsor leadership team meetings, and communicates relevant topics back to the IDSWG leadership team.
+      <br/><br/>
+      Pediatric oncologist and mathematical biologist with five decades of modeling experience across carcinogenesis, treatment sequences in oncology, and clinical trial optimization. Eighteen years in pharmaceutical cancer therapy development: 23 therapies advanced to first-in-human studies, 5 to late-stage development, and 2 approved. Approximately 130 scientific publications and 4 patents. Co-editor of <em>Platform Trials in Drug Development.</em> Scientific Advisor to the Senior Vice President for Research, Georgetown University. Elected Fellow, ASA.
+      <br/><br/>
+      <i class="bi bi-envelope-fill"></i> <a href="mailto:eniac1915@gmail.com">Email Robert Beckman</a> &nbsp;|&nbsp; <a href="mailto:robert.beckman@georgetown.edu">Georgetown email</a>
+    </div>
+  </div>
+</div>
+
+<!-- Vice Chairs and Co-Leaders -->
+<div class="leader-grid">
+
+  <div class="leader-card">
+    <div class="leader-header">
+      <div class="avatar avatar-mg" aria-hidden="true">MG</div>
+      <div class="leader-meta">
+        <h4>Mercedeh Ghadessi, Ph.D.</h4>
+        <div class="leader-title">Vice Chair &amp; Leader of Community</div>
+        <div class="leader-affil">Bayer U.S. LLC, Director, Oncology Medical Statistics</div>
+      </div>
+    </div>
+    <div class="leader-responsibilities">
+      Responsible for organizing leadership and core team meetings, documenting meeting minutes, and collecting membership lists from sub-team leaders. Leads community-wide announcements and monitors regulatory guidance developments.
+      <br/><br/>
+      Biostatistician with over 22 years of experience specializing in oncology and cardiovascular research. Co-leads the NEED Sub-team.
+      <br/><br/>
+      <i class="bi bi-envelope-fill"></i> <a href="mailto:mercedeh.ghadessi@bayer.com">Email Mercedeh Ghadessi</a>
+    </div>
+  </div>
+
+  <div class="leader-card">
+    <div class="leader-header">
+      <div class="avatar avatar-as" aria-hidden="true">AS</div>
+      <div class="leader-meta">
+        <h4>Alex Sverdlov, Ph.D.</h4>
+        <div class="leader-title">Vice Chair &amp; Leader of External Collaborations</div>
+        <div class="leader-affil">Novartis, Senior Director of Biostatistics</div>
+      </div>
+    </div>
+    <div class="leader-responsibilities">
+      Advises the leadership team on external collaborations and actively plans and develops them. Responsible for optimizing IDSWG's public presence, including website development and external outreach.
+      <br/><br/>
+      Over 18 years in pharmaceutical biostatistics. Co-authored 50+ peer-reviewed publications and four books in the CRC Biostatistics Series. Co-leads the Randomization WG.
+      <br/><br/>
+      <i class="bi bi-envelope-fill"></i> <a href="mailto:alex.sverdlov@novartis.com">Email Alex Sverdlov</a>
+    </div>
+  </div>
+
+  <div class="leader-card">
+    <div class="leader-header">
+      <div class="avatar avatar-ch" aria-hidden="true">CH</div>
+      <div class="leader-meta">
+        <h4>Courtney Henry, Ph.D.</h4>
+        <div class="leader-title">Co-Leader of Community</div>
+        <div class="leader-affil">GSK</div>
+      </div>
+    </div>
+    <div class="leader-responsibilities">
+      Co-responsible for organizing leadership and core team meetings, documenting meeting minutes, and collecting membership lists from sub-team leaders. Co-leads community-wide announcements and monitors regulatory guidance developments.
+      <br/><br/>
+      Co-leads the Master Protocol Concept, Methodology and Framework Sub-team and the StatBridge Future Leaders Program alongside Bryan McComb.
+      <br/><br/>
+      <i class="bi bi-envelope-fill"></i> <a href="mailto:courtney.n.henry@gsk.com">Email Courtney Henry</a>
+    </div>
+  </div>
+
+  <div class="leader-card">
+    <div class="leader-header">
+      <div class="avatar avatar-bm" aria-hidden="true">BM</div>
+      <div class="leader-meta">
+        <h4>Bryan McComb, Ph.D.</h4>
+        <div class="leader-title">Co-Leader of External Collaborations, Non-European Branch</div>
+        <div class="leader-affil">Pfizer, Associate Director, Biostatistics</div>
+      </div>
+    </div>
+    <div class="leader-responsibilities">
+      Co-advises the leadership team on external collaborations, with a focus on non-European relationships and initiatives. Contributes to optimizing IDSWG's public presence, including website creation.
+      <br/><br/>
+      Co-leads the Master Protocol Concept, Methodology and Framework Sub-team and the StatBridge Future Leaders Program alongside Courtney Henry.
+      <br/><br/>
+      <i class="bi bi-envelope-fill"></i> <a href="mailto:bryan.mccomb@pfizer.com">Email Bryan McComb</a>
+    </div>
+  </div>
+
+  <div class="leader-card">
+    <div class="leader-header">
+      <div class="avatar avatar-jk" aria-hidden="true">JK</div>
+      <div class="leader-meta">
+        <h4>Johannes Krisam, Ph.D.</h4>
+        <div class="leader-title">Co-Leader of External Collaborations, European Branch</div>
+        <div class="leader-affil">Boehringer Ingelheim</div>
+      </div>
+    </div>
+    <div class="leader-responsibilities">
+      Co-advises the leadership team on external collaborations, with a focus on European relationships including outreach to EU societies such as PSI. Contributes to optimizing IDSWG's public presence.
+      <br/><br/>
+      Co-chair of the IDSWG Randomization Working Group, named PSI SIG of the Year in 2025.
+      <br/><br/>
+      <i class="bi bi-envelope-fill"></i> <a href="mailto:Johannes.krisam@boehringer-ingelheim.com">Email Johannes Krisam</a>
+    </div>
+  </div>
+
+</div>
+```
+:::
+
+```{=html}
+<div class="content-section-alt">
+<div class="inner">
+<h2 class="section-title" id="organizational-structure">Organizational Structure</h2>
+<p>The IDSWG operates through three layers of participation:</p>
+<ul>
+  <li><strong>Leadership Team</strong>, Chair, Vice Chairs, and Co-Leaders set strategic direction, represent the group externally, and support sub-team leads. The team holds regular quarterly meetings.</li>
+  <li><strong>Core Team</strong>, Composed of sub-team chairs and initiative leaders. Coordinates activity across the group and shapes the scientific agenda. Initiative leaders were added to the Core Team in 2025.</li>
+  <li><strong>Sub-teams and Initiatives</strong>, Volunteer-driven working groups focused on specific methodological or operational topics. Members may observe, contribute, lead, or propose new groups at any time. See the <a href="subteams.qmd">Sub-teams page</a> for a full listing.</li>
+</ul>
+<p>Any member considering a new sub-team or stepping into a leadership role is encouraged to prepare a one-page concept and schedule a 30–60 minute consultation with the leadership team.</p>
+</div>
+</div>
+```
+
+::: {.content-section}
+## Membership {#membership}
+
+Current membership stands at approximately **200 members** representing pharmaceutical companies, biotechnology firms, contract research organizations, academic medical centers, health authorities, and patient advocacy organizations across the United States, Europe, and Japan.
+
+Patient advocates are full and valued members of the IDSWG, not external consultants. The group's Patient Engagement Sub-team (currently seeking a new leader) focuses specifically on ensuring that trial designs reflect patient priorities, burden, and experience. Embedding patient perspectives from the earliest design stages is a core principle of the group's work.
+
+Membership is open and free of charge. To join or update contact information, reach out to the leadership team directly or connect via the [get involved form](https://forms.gle/htzA2sGdJ6X9YfXU7).
+
+## About DahShu {#about-dahshu}
+
+The IDSWG operates under the **DahShu** umbrella, a nonprofit organization dedicated to advancing data science in drug development and healthcare. DahShu hosts an annual Data Science Symposium and supports multiple scientific working groups. More information is available at [dahshu.wildapricot.org](https://dahshu.wildapricot.org).
+
+```{=html}
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

@@ -1,0 +1,54 @@
+---
+pagetitle: "MPWG, Basket Trials Sub-stream"
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-subteams" id="main-content">
+  <h1>MPWG: Basket Trials Sub-stream</h1>
+  <p class="lead">Developing confirmatory basket trial methodology and pioneering its application in oncology and rare diseases.</p>
+</div>
+```
+
+::: {.content-section}
+
+*Part of the [ASA-DahShu Master Protocol Working Group](mpwg.qmd).*
+
+## Overview
+
+The Basket Trials sub-stream focuses on the design, simulation, and real-world application of confirmatory basket trials, studies that evaluate a single treatment across multiple diseases or molecular subtypes simultaneously.
+
+**Lead:** Robert A. Beckman, M.D. (Georgetown University)
+
+**Members:** Martin Posch (Med U Vienna), Olivier Collignon (GSK), Thomas Gwise (ex-FDA), Nicole Li (BeiGene), Kit Roes (EMA), Kristine Broglio (AstraZeneca), Cindy Lu (AstraZeneca), Philip He (Daiichi Sankyo), Heng Zhou (Merck), Helen Zhou (GSK), Cong Chen (Merck), Linchen He (Novartis), Valeriy Korostyshevskiy (Georgetown), Sathvik Narayana (Albany Medical College), Sammi Tang (Astellas), Ruixiao Lu (Alumis), Patrick Roney (Georgetown)
+
+## Focus Areas
+
+- Educating the scientific community on basket trial methodology, benefits, and appropriate use
+- Developing confirmatory basket trial designs with rigorous Type I error control
+- Simulation-based evaluation of operating characteristics across disease settings
+- Real-world data applications: using external data to inform basket trial design and analysis
+
+## Selected Publications
+
+- He L, Ren Y, Chen H, Guinn D et al. Efficiency of a randomized confirmatory basket trial design constrained to control the family-wise error rate by indication. *Statistical Methods in Medical Research*, 31: 1207–1223 (2022).
+- He L, Du L, Antonijevic Z et al. Efficient two-stage sequential arrays of proof of concept studies for pharmaceutical portfolios. *Statistical Methods in Medical Research*, 30: 396–410 (2020).
+- Yuan SS, Chen A, He L et al. On group sequential enrichment design for basket trial. *Statistics in Biopharmaceutical Research*, 8: 293–306 (2016).
+- Chen C, Li N, Yuan S et al. Statistical design and considerations of a Phase 3 basket trial for simultaneous investigation of multiple tumor types. *Statistics in Biopharmaceutical Research*, 8: 248–257 (2016).
+
+A full list of basket trial publications will be available soon.
+
+## Recent Presentations
+
+- He L and Beckman RA. "Randomized Confirmatory Basket Trial: Performance Evaluation in Rare Disease Using Real-World Data." *American College of Rheumatology Congress,* 2025.
+- Narayana S (presenting). "Quantifying Heterogeneity in Phase III Oncology Clinical Trials." *ISBS Meeting,* Baltimore, March 2024.
+
+## Get Involved
+
+Contact the [IDSWG Leadership Team](../join.qmd) or reach out directly to Robert A. Beckman at [eniac1915@gmail.com](mailto:eniac1915@gmail.com).
+
+```{=html}
+<p style="margin-top:1.5rem;"><a href="mpwg.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> Back to MPWG</a></p>
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

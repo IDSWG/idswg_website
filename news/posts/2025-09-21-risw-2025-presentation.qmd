@@ -1,0 +1,27 @@
+---
+title: "IDSWG Introduction at ASA-BIOP RISW 2025"
+date: 2025-09-21
+description: "Robert A. Beckman presented an introduction to the IDSWG at the ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop, September 21, 2025."
+categories: [Event, Presentation]
+image: /images/IDSWG_Banner.png
+---
+
+Robert A. Beckman (Chair, DahShu IDSWG; Georgetown University) presented an introduction to the IDSWG at the **ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop (RISW 2025)** on September 21, 2025.
+
+The presentation covered the IDSWG's vision and leadership structure, opportunities for members, current sub-team and initiative updates, and selected past work, including the 2020 Complex Innovative Design (CID) Conference, recent ISBS activity, the Master Protocol book project, and the Rare Disease book project with Ray Huml.
+
+The slide deck is available for download below.
+
+**[Download: IDSWG Introduction, RISW 2025 (PPTX)](../../files/IDSWG_Introduction_RISW_2025.pptx)**
+
+Topics covered:
+
+- IDSWG vision, mission, and membership (~200 members from pharma, biotech, academia, and health authorities in the US, Europe, and Japan)
+- Leadership team introductions (Beckman, Ghadessi, Sverdlov)
+- Sub-team structure and current chairs
+- StatBridge Future Leaders Program
+- ASA-DahShu MPWG updates, book nearing completion, three manuscripts in preparation
+- Basket Trials, RWE, Oncology, NEED, AI/Integrated Scientific Learning, Randomization sub-team reports
+- Planned initiatives: newsletter, website, book series, joint patient community workshops, EU society collaborations
+
+For questions about the IDSWG, contact [Bob Beckman](mailto:eniac1915@gmail.com), [Mercedeh Ghadessi](mailto:mercedeh.ghadessi@bayer.com), or [Alex Sverdlov](mailto:alex.sverdlov@novartis.com).

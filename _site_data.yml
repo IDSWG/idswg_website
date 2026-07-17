@@ -1,0 +1,49 @@
+# ============================================================
+# DahShu IDSWG — Site Data File
+# ============================================================
+# This is the ONE file to update for most routine maintenance.
+# Edit here, then run: quarto preview (or push to GitHub for auto-deploy)
+#
+# Sections:
+#   - last_updated       → appears in page footer
+#   - member_orgs        → partner pill strip on homepage
+#   - leadership         → contact table on Join page (auto-synced to about.qmd manually)
+#   - kol_2026           → copy into events.qmd KOL_DATA array each January
+# ============================================================
+
+last_updated: "May 2026"
+
+# To add/remove orgs: edit this list. Shown as pill badges on homepage.
+# Remove entirely if list goes stale — just delete the member_orgs section.
+member_orgs:
+  - Pfizer
+  - Novartis
+  - AstraZeneca
+  - Bayer
+  - GSK
+  - Merck
+  - Boehringer Ingelheim
+  - Daiichi Sankyo
+  - Astellas
+  - Gilead
+  - Amgen
+  - BeiGene
+  - Georgetown University
+  - Mass General Brigham
+  - Cytel
+  - Berry Consultants
+
+# KOL schedule template for next year — fill in and paste into events.qmd
+kol_template:
+  - { month: "January",   speaker: "", affil: "", topic: "" }
+  - { month: "February",  speaker: "", affil: "", topic: "" }
+  - { month: "March",     speaker: "", affil: "", topic: "" }
+  - { month: "April",     speaker: "", affil: "", topic: "" }
+  - { month: "May",       speaker: "", affil: "", topic: "" }
+  - { month: "June",      speaker: "", affil: "", topic: "" }
+  - { month: "July",      speaker: "", affil: "", topic: "" }
+  - { month: "August",    speaker: "", affil: "", topic: "" }
+  - { month: "September", speaker: "", affil: "", topic: "" }
+  - { month: "October",   speaker: "", affil: "", topic: "" }
+  - { month: "November",  speaker: "", affil: "", topic: "" }
+  - { month: "December",  speaker: "", affil: "", topic: "" }

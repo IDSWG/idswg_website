@@ -1,0 +1,32 @@
+---
+title: ""
+description: "News and updates from the DahShu Innovative Design Scientific Working Group."
+image: /images/IDSWG_Banner.png
+page-layout: full
+listing:
+ id: news-listing
+ contents: posts
+ sort: "date desc"
+ type: default
+ fields: [date, title, description, categories]
+ categories: true
+ sort-ui: false
+ filter-ui: false
+ feed: true
+---
+
+```{=html}
+<div class="hero-section" id="main-content">
+  <h1>News &amp; Updates</h1>
+  <p class="lead">Announcements, publications, awards, and milestones from across the IDSWG community.</p>
+</div>
+```
+
+::: {.content-section}
+::: {#news-listing}
+:::
+
+```{=html}
+<p class="last-updated"><i class="bi bi-clock"></i> To add a news post, create a new <code>.qmd</code> file in <code>news/posts/</code> — see the README for instructions.</p>
+```
+:::

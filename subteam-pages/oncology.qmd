@@ -1,0 +1,28 @@
+---
+pagetitle: "Oncology Sub-team | DahShu IDSWG"
+description: "IDSWG Oncology Sub-team, innovative trial designs for oncology drug development."
+image: /images/IDSWG_Banner.png
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-subteams" id="main-content">
+  <h1>Oncology Sub-team</h1>
+  <p class="lead">Addressing innovative design questions specific to oncology drug development, including biomarker-driven and adaptive designs.</p>
+</div>
+```
+
+::: {.content-section}
+## Overview
+
+The Oncology Sub-team is co-chaired by **Philip He** (Daiichi Sankyo) and **Laura Fernandes** (COTA). The sub-team focuses on design innovations specific to oncology, including biomarker-driven patient selection, response-adaptive randomization, smooth Phase 2/3 designs, and the growing role of real-world evidence in oncology development programs.
+
+## Get Involved
+
+Contact **Philip He** or **Laura Fernandes** by contacting the [IDSWG Leadership Team](../join.qmd).
+
+```{=html}
+<p style="margin-top:1.5rem;"><a href="../subteams.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> All Sub-teams</a></p>
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

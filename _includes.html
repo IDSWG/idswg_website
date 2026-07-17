@@ -1,0 +1,58 @@
+<!-- Skip link (accessibility) -->
+<a class="skip-link" href="#main-content">Skip to main content</a>
+
+<!-- Back to top button -->
+<a id="back-to-top" href="#" aria-label="Back to top" title="Back to top">
+  <i class="bi bi-arrow-up"></i>
+</a>
+
+<!-- JSON-LD structured data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "DahShu Innovative Design Scientific Working Group",
+  "alternateName": "DahShu IDSWG",
+  "url": "https://idswg.github.io",
+  "logo": "https://idswg.github.io/images/IDSWG_Logo_white.png",
+  "description": "A cross-industry scientific community advancing innovative clinical trial design for the benefit of patients worldwide.",
+  "foundingDate": "2015"
+}
+</script>
+
+<script>
+// Auto-generate last-reviewed dates
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.auto-date').forEach(function(el) {
+    el.textContent = new Date().toLocaleDateString('en-US', {month:'long', year:'numeric'});
+  });
+});
+
+// Back to top
+const btn = document.getElementById('back-to-top');
+if (btn) {
+  window.addEventListener('scroll', () => btn.classList.toggle('visible', window.scrollY > 400));
+  btn.addEventListener('click', e => { e.preventDefault(); window.scrollTo({top:0,behavior:'smooth'}); });
+}
+
+// HERO OVERLAP FIX
+// Quarto wraps all content in padded divs. This script runs immediately after
+// the DOM is ready and physically moves the .hero-banner div to sit directly
+// inside the body (before #quarto-content), completely bypassing Quarto's
+// padding. This is the only reliable cross-platform fix.
+document.addEventListener('DOMContentLoaded', function() {
+  var banner = document.querySelector('.hero-banner');
+  var quartoContent = document.getElementById('quarto-content');
+  if (banner && quartoContent) {
+    // Move banner to be a sibling of #quarto-content, just before it
+    quartoContent.parentNode.insertBefore(banner, quartoContent);
+    // Also ensure no margin on the hero-section inside quarto-content
+    var hero = document.querySelector('.hero-section');
+    if (hero) { hero.style.marginTop = '0'; }
+  }
+
+  // Also hide any rendered title block
+  var titleBlock = document.getElementById('title-block-header');
+  if (titleBlock) { titleBlock.style.display = 'none'; }
+});
+</script>

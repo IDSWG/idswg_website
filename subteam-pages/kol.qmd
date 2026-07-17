@@ -1,0 +1,42 @@
+---
+pagetitle: "KOL Lecture Series | DahShu IDSWG"
+description: "IDSWG KOL Lecture Series, monthly webinars on innovative clinical trial design since 2015."
+image: /images/IDSWG_Banner.png
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-subteams" id="main-content">
+  <h1>KOL Lecture Series</h1>
+  <p class="lead">Monthly webinars featuring key opinion leaders from academia, industry, and regulatory agencies, running since 2015.</p>
+</div>
+```
+
+::: {.content-section}
+## Overview
+
+The KOL Lecture Series has been running since 2015 with a mission to invite thought leaders to share insights on the methodology, application, and practical considerations of innovative clinical trial designs. The series is organized by a rotating volunteer committee.
+
+**Format:** Monthly webinars, Fridays 11:00 AM – 12:00 PM EST
+
+**Attendance:** 100–200 participants per session, open to all.
+
+**Chairs:** Heng Zhou (Merck), Yi Pan (Bristol Myers Squibb)
+
+**Members:** John Loewy (Data ForeThought), Xiaofei Bai (Moderna)
+
+**Join a session:** [Zoom link](https://us02web.zoom.us/j/87688020761?pwd=VHBWb1NPcFlZTXI5cTNLeVRwOUlYZz09){target="_blank" rel="noopener"}
+
+## 2025 Schedule and Archive
+
+See the [Events & KOL Lectures](../events.qmd) page for the full 2025 schedule and a listing of past speakers dating back to 2020.
+
+## Propose a Speaker
+
+The committee is actively seeking speakers for 2026. To propose a speaker or express interest in presenting, contact any committee member, contact details available through the [leadership team](../join.qmd).
+
+```{=html}
+<p style="margin-top:1.5rem;"><a href="../subteams.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> All Sub-teams</a></p>
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

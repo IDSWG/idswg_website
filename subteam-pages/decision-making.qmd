@@ -1,0 +1,45 @@
+---
+pagetitle: "Decision-Making Sub-team | DahShu IDSWG"
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-subteams" id="main-content">
+  <h1>Decision-Making Sub-team</h1>
+  <p class="lead">Advancing quantitative and multidisciplinary approaches to decision-making in drug development and clinical trial design.</p>
+</div>
+```
+
+::: {.content-section}
+
+## Overview
+
+The Decision-Making Sub-team focuses on the frameworks, tools, and methodologies used to make go/no-go and resource allocation decisions across the drug development process, including portfolio-level decision analysis, proof-of-concept optimization, and the integration of innovative trial designs into broader development strategies.
+
+**Co-leads:** Zoran Antonijevic and George Wu
+
+## Focus Areas
+
+- Decision-theoretic frameworks for trial design and portfolio optimization
+- Go/no-go decision criteria in adaptive and master protocol settings
+- Bayesian decision analysis in drug development
+- Quantitative approaches to benefit-risk assessment
+- Integration of innovative designs into development strategy decisions
+
+## Selected Publications
+
+- Beckman RA, Collyar D, Cooner F, Haggstrom J, Niewczas J, Lu C, Mo M, Spann ME, Wathen K, Ye J. ASA BIOP section newsletter on ASA DahShu IDSWG Multidisciplinary Master Protocol Working Group. *ASA Biopharmaceutical Section Newsletter*, 30(2): 50–52 (2023).
+- Beckman RA, Natanegara F, Singh P et al. Advancing innovative clinical trials to efficiently deliver medicines to patients. *Nature Reviews Drug Discovery*, 21: 543–544 (2022).
+- Gould AL, Campbell RK, Loewy JW, Beckman RA et al. A framework for assessing the impact of Accelerated Approval. *PLoS One* (2022). [doi:10.1371/journal.pone.0265712](https://doi.org/10.1371/journal.pone.0265712)
+
+A full list of decision-making-related publications will be available soon.
+
+## Get Involved
+
+Contact the [IDSWG Leadership Team](../join.qmd) to connect with the Decision-Making Sub-team co-leads.
+
+```{=html}
+<p style="margin-top:1.5rem;"><a href="../subteams.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> All Sub-teams</a></p>
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

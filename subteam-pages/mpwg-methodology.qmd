@@ -1,0 +1,47 @@
+---
+pagetitle: "MPWG, Methodology & Concept Sub-stream"
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-subteams" id="main-content">
+  <h1>MPWG: Methodology &amp; Concept</h1>
+  <p class="lead">Advancing the conceptual and methodological foundations of master protocol clinical trial design.</p>
+</div>
+```
+
+::: {.content-section}
+
+*Part of the [ASA-DahShu Master Protocol Working Group](mpwg.qmd).*
+
+## Overview
+
+The Methodology and Concept sub-stream focuses on the theoretical and applied foundations of master protocol design, including framework development, estimand considerations, simulation methodology, and the conceptual distinctions between basket, umbrella, and platform trial structures.
+
+**Co-leads:** Bryan McComb, Ph.D. (Pfizer) and Courtney Henry, Ph.D. (GSK)
+
+This sub-stream is undergoing a reboot under new leadership. New members are actively welcome.
+
+## Current Focus Areas
+
+- Developing a unified framework for classifying and comparing master protocol design types
+- Simulation methodology for evaluating operating characteristics of basket and platform designs
+- Estimand considerations specific to master protocol contexts
+- Methodological guidance on borrowing of information across sub-studies
+
+## Recent Activity
+
+The sub-stream contributed to the multidisciplinary MPWG book (*Master Protocol Clinical Trial for Efficient Evidence Generation*, nearing publication) and is preparing manuscripts on master protocol methodology targeting *Contemporary Clinical Trials*.
+
+## Get Involved
+
+This sub-stream is actively recruiting new members. Contact the [IDSWG Leadership Team](../join.qmd) or reach out directly to the co-leads:
+
+- Bryan McComb, Ph.D., [bryan.mccomb@pfizer.com](mailto:bryan.mccomb@pfizer.com)
+- Courtney Henry, Ph.D., [courtney.n.henry@gsk.com](mailto:courtney.n.henry@gsk.com)
+
+```{=html}
+<p style="margin-top:1.5rem;"><a href="mpwg.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> Back to MPWG</a></p>
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

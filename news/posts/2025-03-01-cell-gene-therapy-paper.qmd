@@ -1,0 +1,17 @@
+---
+title: "New Publication: Cell and Gene Therapy for Rare Diseases"
+date: 2025-03-01
+description: "The NEED Sub-team's paper on clinical development of cell and gene therapy for rare diseases has been published in Therapeutic Innovation & Regulatory Science."
+categories: [Publication]
+image: /images/IDSWG_Banner.png
+---
+
+The NEED Sub-team's latest paper has been published in *Therapeutic Innovation & Regulatory Science*:
+
+**Insights on Clinical Development of Cell and Gene Therapy for Rare Diseases, by DahShu Innovative Design Scientific Working Group (IDSWG)**
+
+This paper represents the third major publication from the NEED (Nature and Extent of Evidence Needed for Rare Diseases) Sub-team, co-led by Mercedeh Ghadessi (Bayer) and Sammi Tang (Astellas). It follows earlier publications on historical controls (2020) and decentralized clinical trials (2023).
+
+The paper addresses clinical development considerations specific to cell and gene therapy in rare disease settings, covering design approaches, regulatory landscape, and operational challenges.
+
+[Read the paper](https://link.springer.com/article/10.1007/s43441-025-00853-4), doi:10.1007/s43441-025-00853-4

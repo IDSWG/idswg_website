@@ -1,0 +1,46 @@
+---
+pagetitle: "MPWG, Regulatory Sub-stream"
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-subteams" id="main-content">
+  <h1>MPWG: Regulatory Sub-stream</h1>
+  <p class="lead">Engaging with the regulatory landscape for master protocol trials and tracking global guidance developments.</p>
+</div>
+```
+
+::: {.content-section}
+
+*Part of the [ASA-DahShu Master Protocol Working Group](mpwg.qmd).*
+
+## Overview
+
+The Regulatory sub-stream monitors and engages with FDA, EMA, and international regulatory guidance relevant to master protocol trial design. It also coordinates IDSWG input to regulatory public comment processes and maintains the systematic literature review of master protocol trials.
+
+**Lead:** Peter Mesenbrink (Novartis)
+
+## Current Focus Areas
+
+- Monitoring FDA and EMA guidance on master protocols, adaptive designs, and complex innovative designs
+- Systematic Literature Review update, covering master protocol publications from 2020 to 2025 (volunteers needed for full-text review and data extraction)
+- Engaging with regulatory stakeholders on platform trial guidance development
+
+## Recent Activity
+
+- Invited panel discussion: "Platform Trials, Shaping the Regulatory Guidance for Future Innovation." *International Society for Biopharmaceutical Statistics (ISBS) Webinar,* December 6, 2024
+- Completed abstract screening for the SLR update; full-text review is the next phase
+
+## Volunteer Opportunity
+
+The SLR update requires volunteers for full-text review and data extraction. No specialist knowledge of master protocols is required, familiarity with systematic review methods is helpful. Contact the [IDSWG Leadership Team](../join.qmd) or Peter Mesenbrink directly to participate.
+
+## Get Involved
+
+Contact the [IDSWG Leadership Team](../join.qmd) to connect with Peter Mesenbrink and the regulatory sub-stream.
+
+```{=html}
+<p style="margin-top:1.5rem;"><a href="mpwg.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> Back to MPWG</a></p>
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

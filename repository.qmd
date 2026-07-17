@@ -1,0 +1,32 @@
+---
+pagetitle: "Master Protocol App | DahShu IDSWG"
+description: "Interactive application for exploring master protocol clinical trials, coming soon."
+image: images/IDSWG_Banner.png
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-resources" id="main-content">
+  <h1>Master Protocol App</h1>
+  <p class="lead">An interactive tool for browsing and analyzing master protocol clinical trials, currently in development.</p>
+</div>
+```
+
+::: {.content-section}
+
+## Coming Soon
+
+The IDSWG Master Protocol Working Group is developing an interactive application for exploring the landscape of master protocol clinical trials. The app will allow users to filter and analyze trials by design type, disease area, phase, sponsor, and status.
+
+The app is not yet publicly available. This page will be updated with a link and embed once deployment is complete.
+
+For methodology and design guidance, see the [Resources](resources.qmd) page.
+
+## Interested in Contributing?
+
+The app is maintained by the Concept, Methodology and Framework Sub-team. If you have relevant expertise in Shiny development, data curation, or master protocol methodology and want to contribute, contact **Bryan McComb** ([bryan.mccomb@pfizer.com](mailto:bryan.mccomb@pfizer.com)) or **Courtney Henry** ([courtney.n.henry@gsk.com](mailto:courtney.n.henry@gsk.com)).
+
+```{=html}
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

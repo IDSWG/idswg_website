@@ -1,0 +1,6 @@
+# Metadata for individual news posts — suppresses inherited footer link warnings
+website:
+  page-footer:
+    left: "© 2025 DahShu IDSWG"
+    center: ""
+    right: ""

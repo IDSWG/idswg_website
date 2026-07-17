@@ -1,0 +1,40 @@
+---
+pagetitle: "AI/Integrated Scientific Learning | DahShu IDSWG"
+description: "IDSWG AI/Integrated Scientific Learning Sub-team, machine learning applications in clinical development."
+image: /images/IDSWG_Banner.png
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-subteams" id="main-content">
+  <h1>AI/Integrated Scientific Learning</h1>
+  <p class="lead">Advancing AI and integrated scientific learning approaches across the drug development lifecycle.</p>
+</div>
+```
+
+::: {.content-section}
+## Overview
+
+The AI/Integrated Scientific Learning Sub-team is chaired by **Alex Sverdlov, Ph.D.** (Novartis), with members **Maha Karnoub** and **Vanja Vlajnic**. The sub-team focuses on how machine learning, AI, and integrated scientific learning approaches can be applied in drug development, including drug repurposing, biomarker identification, patient selection, and trial simulation.
+
+## Completed Work
+
+**Chapter 11: Machine Learning/Artificial Intelligence in Drug Development**, Karnoub M, Just F, Yin J, and Vlajnic V (Daiichi Sankyo; Bayer Healthcare Pharmaceuticals). In: *Statistics in Clinical Development of Cancer Drugs: Recent Trends & Advances* (Eds. Kundu & Ghosh). Springer. *In press.*
+
+## Current Projects
+
+A manuscript on AI/ML applications for drug repurposing in rare diseases is currently in preparation, in collaboration with the NEED Sub-team.
+
+## Relevant Guidance
+
+The January 2026 FDA draft guidance on Bayesian Methodology in Clinical Trials is directly relevant to this sub-team's work, particularly the sections on incorporating real-world evidence and external data sources. See the [Resources & Guidance](../resources.qmd) page.
+
+## Get Involved
+
+Contact **Alex Sverdlov** ([alex.sverdlov@novartis.com](mailto:alex.sverdlov@novartis.com)).
+
+```{=html}
+<p style="margin-top:1.5rem;"><a href="../subteams.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> All Sub-teams</a></p>
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

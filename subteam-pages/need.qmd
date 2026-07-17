@@ -1,0 +1,40 @@
+---
+pagetitle: "NEED Sub-team | DahShu IDSWG"
+description: "NEED Sub-team, Nature and Extent of Evidence Needed for Rare Diseases."
+image: /images/IDSWG_Banner.png
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-subteams" id="main-content">
+  <h1>NEED, Rare Diseases Sub-team</h1>
+  <p class="lead">Nature and Extent of Evidence Needed for Rare Diseases, three peer-reviewed publications since 2020.</p>
+</div>
+```
+
+::: {.content-section}
+## Overview
+
+The NEED Sub-team is co-led by **Sammi Tang** (Astellas) and **Mercedeh Ghadessi** (Bayer). It focuses on the nature and extent of evidence needed to support drug approval in rare disease settings, where small patient populations, natural history variability, and limited precedent create unique methodological challenges.
+
+Patient perspectives are central to the sub-team's work. Rare disease trials often involve patient populations with few treatment options, strong advocacy communities, and high stakes in regulatory decisions. The sub-team works to ensure that evidence standards reflect what matters to patients and their families, not only what is statistically tractable.
+
+## Publications
+
+- **Insights on Clinical Development of Cell and Gene Therapy for Rare Diseases**, DahShu IDSWG. *Therapeutic Innovation & Regulatory Science* (2025). [doi:10.1007/s43441-025-00853-4](https://link.springer.com/article/10.1007/s43441-025-00853-4)
+- **Principles of Using Decentralized Clinical Trials in Rare Diseases**, DIA-IDSWG. *Orphanet Journal of Rare Diseases* (2023). [doi:10.1186/s13023-023-02693-7](https://ojrd.biomedcentral.com/articles/10.1186/s13023-023-02693-7)
+- **A Roadmap to Using Historical Controls in Clinical Trials**, DIA-IDSWG. *Orphanet Journal of Rare Diseases* (2020). [doi:10.1186/s13023-020-1332-x](https://ojrd.biomedcentral.com/articles/10.1186/s13023-020-1332-x)
+
+## Current Projects
+
+A manuscript on AI/ML for drug repurposing in rare diseases is currently in preparation, in collaboration with the AI/ML Sub-team.
+
+## Get Involved
+
+Contact **Mercedeh Ghadessi** ([mercedeh.ghadessi@bayer.com](mailto:mercedeh.ghadessi@bayer.com)).
+
+```{=html}
+<p style="margin-top:1.5rem;"><a href="../subteams.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> All Sub-teams</a></p>
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

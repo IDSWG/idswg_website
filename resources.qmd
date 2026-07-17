@@ -1,0 +1,122 @@
+---
+pagetitle: "Resources | DahShu IDSWG"
+description: "Key regulatory guidance and partner organizations for innovative clinical trial design."
+image: images/IDSWG_Banner.png
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-resources" id="main-content">
+  <h1>Resources</h1>
+  <p class="lead">Key regulatory guidance relevant to adaptive designs, master protocols, and innovative trial methodology.</p>
+</div>
+<div class="page-jumpnav" aria-label="Resource sections">
+  <a href="#fda">FDA</a>
+  <a href="#ema">EMA</a>
+  <a href="#ich">ICH</a>
+  <a href="#organizations">Organizations</a>
+</div>
+```
+
+::: {.content-section}
+
+IDSWG-authored guidance documents and white papers will be listed here as they are published.
+
+## FDA Guidance {#fda}
+
+```{=html}
+<div class="reg-grid">
+  <div class="reg-card reg-fda">
+    <div class="reg-agency">FDA, November 2019</div>
+    <h4>Adaptive Designs for Clinical Trials of Drugs and Biologics</h4>
+    <p>Core FDA guidance on pre-specified adaptations, alpha control, and operational integrity in adaptive trials.</p>
+    <a href="https://www.fda.gov/media/78504/download" target="_blank" rel="noopener">Download PDF</a>
+  </div>
+  <div class="reg-card reg-fda">
+    <div class="reg-agency">FDA, September 2022</div>
+    <h4>Master Protocols: Efficient Clinical Trial Design Strategies</h4>
+    <p>FDA guidance on basket, umbrella, and platform trial design, covering estimands, statistical analysis plans, and regulatory interaction.</p>
+    <a href="https://www.fda.gov/media/120721/download" target="_blank" rel="noopener">Download PDF</a>
+  </div>
+  <div class="reg-card reg-fda">
+    <div class="reg-agency">FDA, December 2023</div>
+    <h4>Decentralized Clinical Trials for Drugs, Biological Products, and Devices</h4>
+    <p>Final guidance on remote assessments, local healthcare providers, and digital data collection in decentralized trials.</p>
+    <a href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents" target="_blank" rel="noopener">FDA guidance portal</a>
+  </div>
+  <div class="reg-card reg-fda">
+    <div class="reg-agency">FDA, January 2025</div>
+    <h4>Considerations for the Design and Conduct of Externally Controlled Trials</h4>
+    <p>Guidance on using real-world data as a control arm, with particular relevance for rare diseases and pediatric populations.</p>
+    <a href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents" target="_blank" rel="noopener">FDA guidance portal</a>
+  </div>
+  <div class="reg-card reg-fda">
+    <div class="reg-agency">FDA, January 2026 <span class="reg-new">New</span></div>
+    <h4>Use of Bayesian Methodology in Clinical Trials of Drug and Biological Products (Draft)</h4>
+    <p>Landmark draft guidance covering Bayesian approaches to primary inference in pivotal trials, adaptive designs, rare disease trials, and incorporation of external data including real-world evidence. Covers pre-specification requirements, prior selection, success criteria, and simulation. Open for public comment; comments due March 13, 2026. Docket: FDA-2025-D-3217.</p>
+    <a href="https://www.federalregister.gov/documents/2026/01/12/2026-00325/use-of-bayesian-methodology-in-clinical-trials-of-drug-and-biological-products-draft-guidance-for" target="_blank" rel="noopener">Federal Register notice</a>
+  </div>
+
+  <div class="reg-card reg-fda">
+    <div class="reg-agency">FDA, February 2026 <span class="reg-new">New</span></div>
+    <h4>Plausible Mechanism Framework for Individualized Therapies Targeting Specific Genetic Conditions (Draft)</h4>
+    <p>Draft guidance establishing a framework for approval of highly individualized therapies (genome editing, RNA-based) for ultra-rare diseases where conventional randomized trials are not feasible. Describes conditions for meeting the substantial evidence of effectiveness standard via mechanistic evidence. Notes master protocols as a design option for evaluating multiple variants under a single application. Open for comment; comments due April 27, 2026. Docket: FDA-2026-D-1256.</p>
+    <a href="https://www.federalregister.gov/documents/2026/02/25/2026-03713/considerations-for-the-use-of-the-plausible-mechanism-framework-to-develop-individualized-therapies" target="_blank" rel="noopener">Federal Register notice</a>
+  </div>
+
+</div>
+```
+
+## EMA Guidance {#ema}
+
+```{=html}
+<div class="reg-grid">
+  <div class="reg-card reg-ema">
+    <div class="reg-agency">EMA, March 2021</div>
+    <h4>Guideline on Adaptive Designs in Clinical Trials</h4>
+    <p>EMA guidance on adaptive methodology, Type I error control, and regulatory interaction for EU development programs.</p>
+    <a href="https://www.ema.europa.eu/en/adaptive-designs-clinical-trials-scientific-guideline" target="_blank" rel="noopener">EMA website</a>
+  </div>
+  <div class="reg-card reg-ema">
+    <div class="reg-agency">EMA, 2022</div>
+    <h4>Reflection Paper on Use of Real-World Data in Regulatory Decision-Making</h4>
+    <p>EMA framework for when and how real-world data can support marketing authorization applications.</p>
+    <a href="https://www.ema.europa.eu/en/human-regulatory-overview/research-development/real-world-evidence-ema" target="_blank" rel="noopener">EMA website</a>
+  </div>
+</div>
+```
+
+## ICH Guidelines {#ich}
+
+```{=html}
+<div class="reg-grid">
+  <div class="reg-card reg-ich">
+    <div class="reg-agency">ICH, November 2019</div>
+    <h4>E9(R1): Estimands and Sensitivity Analysis</h4>
+    <p>The international standard for defining the target of estimation in clinical trials. Applies across FDA, EMA, and PMDA regions.</p>
+    <a href="https://www.ich.org/page/efficacy-guidelines" target="_blank" rel="noopener">ICH website</a>
+  </div>
+  <div class="reg-card reg-ich">
+    <div class="reg-agency">ICH, 2024</div>
+    <h4>E20: Adaptive Clinical Trials (Draft)</h4>
+    <p>New ICH guideline harmonizing regulatory expectations for adaptive designs across international regions.</p>
+    <a href="https://www.ich.org/page/efficacy-guidelines" target="_blank" rel="noopener">ICH website</a>
+  </div>
+</div>
+```
+
+## Partner Organizations {#organizations}
+
+```{=html}
+<div class="reg-grid">
+  <div class="resource-card">
+    <div class="resource-type">Sponsor Organization</div>
+    <h4>DahShu</h4>
+    <p>The nonprofit organization sponsoring the IDSWG. DahShu hosts an annual Data Science Symposium and supports multiple scientific working groups advancing data science in drug development and healthcare.</p>
+    <a href="https://dahshu.wildapricot.org" target="_blank" rel="noopener">dahshu.wildapricot.org</a>
+  </div>
+</div>
+
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

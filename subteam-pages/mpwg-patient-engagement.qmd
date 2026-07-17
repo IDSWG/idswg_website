@@ -1,0 +1,41 @@
+---
+pagetitle: "MPWG, Patient Engagement Sub-stream"
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-subteams" id="main-content">
+  <h1>MPWG: Patient Engagement Sub-stream</h1>
+  <p class="lead">Integrating patient perspectives into master protocol trial design, currently forming new leadership.</p>
+</div>
+```
+
+::: {.content-section}
+
+*Part of the [ASA-DahShu Master Protocol Working Group](mpwg.qmd).*
+
+## Overview
+
+The Patient Engagement sub-stream focuses on incorporating patient and caregiver perspectives into master protocol trial design, including endpoint selection, trial accessibility, participation burden, and communication of complex study structures to patients and advocates.
+
+**Status:** This sub-stream is on hold pending new leadership. It is expected to reconvene in early 2026.
+
+**Previous contributors include:** Deborah Collyar (Patient Advocates in Research, PAIR)
+
+## Why Patient Engagement Matters in Master Protocols
+
+Master protocol trials, particularly platform and basket designs, are operationally complex and can span years or decades. Ensuring that patients understand what they are enrolling in, that endpoints reflect outcomes meaningful to them, and that participation burden is minimized requires active patient engagement from the design stage onward.
+
+Prior MPWG work has addressed patient engagement directly:
+
+- Huml RA, Collyar D, Antonijevic Z, Beckman RA et al. Aiding the adoption of master protocols by optimizing patient engagement. *Therapeutic Innovation and Regulatory Science*, 57: 1136–1147 (2023).
+
+## Get Involved
+
+If you have a background in patient advocacy, patient-reported outcomes, or rare disease community engagement and are interested in leading or contributing to this sub-stream, please contact the [IDSWG Leadership Team](../join.qmd).
+
+```{=html}
+<p style="margin-top:1.5rem;"><a href="mpwg.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> Back to MPWG</a></p>
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

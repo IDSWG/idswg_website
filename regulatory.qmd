@@ -1,0 +1,10 @@
+---
+pagetitle: "Resources | DahShu IDSWG"
+page-layout: full
+---
+
+```{=html}
+<meta http-equiv="refresh" content="0; url=resources.html#fda" />
+<script>window.location.replace("resources.html#fda");</script>
+<p>Redirecting to <a href="resources.html#fda">Resources page</a>…</p>
+```

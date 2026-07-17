@@ -1,0 +1,56 @@
+---
+pagetitle: "Slides & Materials | DahShu IDSWG"
+description: "Slide decks, presentations, apps, and downloadable materials from DahShu IDSWG meetings, conferences, and sub-team activities."
+image: images/IDSWG_Banner.png
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-publications" id="main-content">
+  <h1>Slides &amp; Materials</h1>
+  <p class="lead">Slide decks, interactive apps, and downloadable materials from IDSWG meetings, sub-team activities, and conference presentations.</p>
+</div>
+```
+
+::: {.content-section}
+
+This page houses downloadable and interactive materials from the IDSWG community, including slide decks, apps, and tools. Items are added when permission has been granted by the author or sub-team lead.
+
+## Available Slides
+
+```{=html}
+<ul class="pub-list">
+
+  <li>
+    <span class="pub-year">Sep 2025</span><br/>
+    <strong>IDSWG Introduction, ASA-BIOP Regulatory-Industry Statistics Workshop (RISW 2025)</strong><br/>
+    Beckman RA. Overview of IDSWG vision, leadership, sub-teams, and selected past work. Presented September 21, 2025.<br/>
+    <a href="files/IDSWG_Introduction_RISW_2025.pptx" download>
+      <i class="bi bi-download"></i> Download PPTX (1.7 MB)
+    </a>
+  </li>
+
+</ul>
+```
+
+## Apps & Interactive Tools
+
+```{=html}
+<ul class="pub-list">
+  <li>
+    <span class="pub-year">Coming Soon</span><br/>
+    <strong>Master Protocol Repository App</strong><br/>
+    Interactive application for browsing and filtering master protocol trials by design type, disease area, phase, and sponsor. Built and maintained by the MPWG Concept, Methodology and Framework Sub-team.<br/>
+    <em style="color:#888;font-size:0.85rem;">Deployment in progress. Link will be added here when available.</em>
+  </li>
+</ul>
+```
+
+## Adding Slides or Materials
+
+To add slides, an app, or other materials, contact Bryan McComb ([bryan.mccomb@pfizer.com](mailto:bryan.mccomb@pfizer.com)) or Courtney Henry ([courtney.n.henry@gsk.com](mailto:courtney.n.henry@gsk.com)) with the file and confirmation of permission to share. See the [README](https://github.com) for technical instructions on uploading files to the `files/` folder.
+
+```{=html}
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

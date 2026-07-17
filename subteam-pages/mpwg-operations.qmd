@@ -1,0 +1,47 @@
+---
+pagetitle: "MPWG, Operations Sub-stream"
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-subteams" id="main-content">
+  <h1>MPWG: Operations Sub-stream</h1>
+  <p class="lead">Examining the operational and cross-functional realities of running master protocol trials in practice.</p>
+</div>
+```
+
+::: {.content-section}
+
+*Part of the [ASA-DahShu Master Protocol Working Group](mpwg.qmd).*
+
+## Overview
+
+The Operations sub-stream focuses on the practical, cross-functional, and strategic challenges of implementing master protocol trials, including sponsor models, governance, site coordination, data standards, and lessons learned from real-world deployments.
+
+**Co-leads:** Matthew Gribben (Amgen) and Marianne Chase (Mass General Brigham)
+
+## Current Focus Areas
+
+- Comparing the operational and strategic profiles of company-sponsored versus non-profit/academic-sponsored master protocol trials
+- Identifying best practices for cross-organizational governance of platform trials
+- Site engagement, patient recruitment, and operational burden in master protocol settings
+
+## Active Survey
+
+The sub-stream is collecting responses on similarities and differences between pharma/biotech-sponsored and academic/non-profit-sponsored master protocols. Survey responses will support a submission to the **2026 Society for Clinical Trials (SCT) Annual Meeting**.
+
+To participate in the survey or learn more, contact the [IDSWG Leadership Team](../join.qmd).
+
+## Recent Publication
+
+Wu Y, Lu C, Aregay M et al. Company Sponsored Platform Trials: Recommendations and Lessons Learned from Cross-Industry Interviews. *Therapeutic Innovation and Regulatory Science* (2025). [doi:10.1007/s43441-025-00792-0](https://doi.org/10.1007/s43441-025-00792-0)
+
+## Get Involved
+
+Contact the [IDSWG Leadership Team](../join.qmd) to connect with the Operations sub-stream co-leads.
+
+```{=html}
+<p style="margin-top:1.5rem;"><a href="mpwg.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> Back to MPWG</a></p>
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

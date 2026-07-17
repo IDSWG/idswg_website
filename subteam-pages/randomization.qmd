@@ -1,0 +1,47 @@
+---
+pagetitle: "Randomization WG | DahShu IDSWG"
+description: "IDSWG Randomization Working Group, advancing modern randomization methodology in clinical trials."
+image: /images/IDSWG_Banner.png
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-subteams" id="main-content">
+  <h1>Randomization Working Group</h1>
+  <p class="lead">PSI SIG of the Year 2025, advancing modern randomization methodology in clinical trials worldwide.</p>
+</div>
+```
+
+::: {.content-section}
+## Overview
+
+The IDSWG Randomization Working Group is a joint initiative with PSI/EFSPI and ASA-BIOP, co-chaired by **Johannes Krisam, Ph.D.** and **Kerstine Carter** (both Boehringer Ingelheim) and **Alex Sverdlov, Ph.D.** (Novartis).
+
+The WG focuses on bringing awareness to modern randomization approaches that go beyond standard permuted-block methods, improving efficiency, balancing prognostic factors, and supporting the use of covariate-adaptive and response-adaptive designs.
+
+**Named PSI Special Interest Group of the Year in June 2025.**
+
+## Membership
+
+Approximately 50 active and inactive members spanning pharmaceutical industry (19), academia (24), and other organizations (7), with representation across EU/UK and the USA.
+
+## Activities
+
+- Monthly member-only meetings
+- Open learning sessions accessible to non-members
+- Publications, slide sets, and educational resources
+- Conference presentations at JSM, PSI annual meeting, and other venues
+
+## Resources
+
+Visit the [Randomization WG website](https://randomization-wg.org/){target="_blank" rel="noopener"} for publications, upcoming events, and membership information.
+
+## Get Involved
+
+Contact **Johannes Krisam** ([Johannes.krisam@boehringer-ingelheim.com](mailto:Johannes.krisam@boehringer-ingelheim.com)) or **Alex Sverdlov** ([alex.sverdlov@novartis.com](mailto:alex.sverdlov@novartis.com)).
+
+```{=html}
+<p style="margin-top:1.5rem;"><a href="../subteams.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> All Sub-teams</a></p>
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

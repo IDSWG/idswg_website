@@ -1,0 +1,100 @@
+---
+pagetitle: "Events & KOL Lectures | DahShu IDSWG"
+description: "Upcoming IDSWG events, the KOL Lecture Series, and an archive of past lectures."
+image: images/IDSWG_Banner.png
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-events" id="main-content">
+  <h1>Events &amp; KOL Lectures</h1>
+  <p class="lead">Upcoming meetings, the monthly KOL Lecture Series, and an archive of past talks.</p>
+</div>
+<div class="page-jumpnav" aria-label="Event sections">
+  <a href="#upcoming">Upcoming Events</a>
+  <a href="#kol-series">KOL Lecture Series</a>
+  <a href="#annual-meeting">Annual Meeting</a>
+  <a href="#symposium">DahShu Symposium</a>
+  <a href="#archive">KOL Archive</a>
+</div>
+```
+
+::: {.content-section}
+
+## Upcoming Events {#upcoming}
+
+```{=html}
+<div class="pub-list" style="list-style:none;padding:0;">
+
+  <div style="background:white;border:1px solid #d8e3f0;border-left:4px solid #0D2B6B;border-radius:0 4px 4px 0;padding:1.3rem 1.5rem;margin-bottom:0.85rem;">
+    <span class="pub-year">Save the Date</span><br/>
+    <strong style="font-size:1.1rem;">2026 DahShu-IDSWG Annual Meeting</strong><br/><br/>
+    Please save the date for the 2026 DahShu-IDSWG Annual Meeting, held in conjunction with the ASA BioPharma Regulatory-Industry Statistics Workshop (RISW).<br/><br/>
+    <strong>Date:</strong> September 16, 2026<br/>
+    <strong>Time:</strong> 5:30–7:15 PM<br/>
+    <strong>Location:</strong> Bethesda North Marriott, Bethesda, MD (room details to follow)<br/><br/>
+    <strong>The meeting will provide an opportunity to:</strong>
+    <ul style="margin:0.5rem 0 0;padding-left:1.2rem;">
+      <li>Connect with fellow IDSWG members</li>
+      <li>Hear updates on ongoing initiatives and sub-team activities</li>
+      <li>Discuss future priorities and opportunities for engagement within the IDSWG</li>
+    </ul>
+    <br/>
+    <span style="color:#888;font-size:0.85rem;">Additional details, including the featured speaker and room location, will be posted here as they are confirmed.</span>
+  </div>
+
+  <div style="background:white;border:1px solid #d8e3f0;border-left:4px solid #4A7FA5;border-radius:0 4px 4px 0;padding:1.1rem 1.3rem;margin-bottom:0.85rem;">
+    <span class="pub-year" style="background:#4A7FA5;">Ongoing 2026</span><br/>
+    <strong>KOL Lecture Series</strong><br/>
+    Monthly webinars, Fridays 11:00 AM to 12:00 PM EST. <a href="https://us02web.zoom.us/j/87688020761?pwd=VHBWb1NPcFlZTXI5cTNLeVRwOUlYZz09" target="_blank" rel="noopener">Zoom link</a><br/>
+    <span style="color:#888;font-size:0.85rem;">The 2026 speaker schedule is being confirmed. Contact the KOL committee to present or nominate a speaker.</span>
+  </div>
+
+</div>
+```
+
+## KOL Lecture Series {#kol-series}
+
+The IDSWG KOL Lecture Series has been running since 2015. Each month the series invites key opinion leaders from academia, industry, and regulatory agencies to share insights on the methodology, application, and practical considerations of innovative clinical trial design.
+
+**Format:** Monthly webinars, Fridays 11:00 AM to 12:00 PM EST
+
+**Attendance:** 100 to 200 participants per session, open to all.
+
+**Join the meeting:** [Zoom link](https://us02web.zoom.us/j/87688020761?pwd=VHBWb1NPcFlZTXI5cTNLeVRwOUlYZz09){target="_blank" rel="noopener"}
+
+**Chairs (2025):** Heng Zhou (Merck), Yi Pan (Bristol Myers Squibb)
+
+**Members:** John Loewy (Data ForeThought), Xiaofei Bai (Moderna)
+
+To present or nominate a speaker for 2026, contact any committee member.
+
+## Annual Meeting {#annual-meeting}
+
+IDSWG holds an annual face-to-face meeting for members and collaborators, held in conjunction with the ASA BioPharma Regulatory-Industry Statistics Workshop (RISW). The **2026 Annual Meeting** is scheduled for September 16, 2026 at the Bethesda North Marriott (see Upcoming Events above for details).
+
+The most recent meeting took place on **September 24, 2025**, and included introductory presentations on the IDSWG, DahShu, and BSWG collaboration opportunities, and the StatBridge Future Leaders Program, followed by sub-team reports from across the group's working groups.
+
+## DahShu Data Science Symposium {#symposium}
+
+The 2025 DahShu Data Science Symposium focused on *Innovative Frontiers: AI and Data-Driven Advances in Drug Development, Precision Medicine, and Healthcare.*
+
+Short courses offered on October 18, 2025:
+
+- Causal Generalist Medical AI *(Full Day)*
+- Precision Medicine and Companion Diagnostics: Statistical and Design Considerations *(Half Day)*
+- Bayesian Clinical Trial Designs and Their Implementation *(Half Day)*
+- Highly Adaptive Lasso and Targeted Learning *(Full Day)*
+
+More information about DahShu events is available at [dahshu.wildapricot.org](https://dahshu.wildapricot.org).
+
+## KOL Archive {#archive}
+
+The KOL Lecture Series has featured 100+ speakers from academia, industry, and regulatory agencies since 2015. A full searchable archive of past lectures is being compiled and will be posted here.
+
+Recordings of past lectures are shared with registered IDSWG members. To request access to a specific past lecture or the full archive, contact the KOL Series committee.
+
+```{=html}
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

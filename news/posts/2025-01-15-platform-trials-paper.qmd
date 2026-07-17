@@ -1,0 +1,18 @@
+---
+title: "MPWG Publication: Company Sponsored Platform Trials"
+date: 2025-01-15
+description: "A new paper from the Master Protocol Working Group on lessons learned from cross-industry interviews about company-sponsored platform trials."
+categories: [Publication]
+image: /images/IDSWG_Banner.png
+---
+
+The Master Protocol Working Group has published a new paper in *Therapeutic Innovation and Regulatory Science*:
+
+**Company Sponsored Platform Trials: Recommendations and Lessons Learned from Cross-Industry Interviews**
+Wu, Y., Lu, C., Aregay, M. et al.
+
+This paper reports findings from cross-industry interviews examining the design, operational, and strategic challenges of company-sponsored platform trials. It offers practical recommendations for organizations considering this trial structure.
+
+The MPWG is a joint working group co-chaired by Cindy Lu (AstraZeneca) and Robert Beckman (Georgetown University), operating under the ASA, DahShu IDSWG, and BSWG umbrella.
+
+[Read the paper](https://doi.org/10.1007/s43441-025-00792-0), doi:10.1007/s43441-025-00792-0

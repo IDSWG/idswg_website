@@ -1,0 +1,38 @@
+---
+pagetitle: "Real-World Evidence | DahShu IDSWG"
+description: "IDSWG Real-World Evidence Sub-team, appropriate use of real-world data in clinical development."
+image: /images/IDSWG_Banner.png
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-subteams" id="main-content">
+  <h1>Real-World Evidence (RWE) Sub-team</h1>
+  <p class="lead">Advancing the appropriate use of real-world data and evidence in clinical development and regulatory submissions.</p>
+</div>
+```
+
+::: {.content-section}
+## Overview
+
+The RWE Sub-team is chaired by **James Chuo** (Gilead). It focuses on the appropriate use of real-world data and real-world evidence, from electronic health records, claims databases, patient registries, and other sources, in clinical development, including external control arms and pragmatic trial designs.
+
+**Current members:** James Chuo (Gilead), Shikai Jin (Gilead), Andy Surianch (Genesis Research), Wen-Hsing Wu (Moderna), Victoria Strauss (Boehringer Ingelheim).
+
+The sub-team's 2025 highlights include a poster at ISPE 2025 on aligning data types with research needs. Planned work for 2025–2026 includes identifying key areas and unmet needs for RWE in the pharmaceutical industry, targeting at least one white paper or conference presentation, and applying emerging technologies for better RWE use and interpretation.
+
+The sub-team pays particular attention to methodological standards and regulatory expectations governing RWE, including the FDA's framework for real-world evidence and the EMA's reflection paper on real-world data.
+
+## Resources
+
+See the [Resources & Guidance](../resources.qmd) page for current FDA, EMA, and ICH guidance on real-world evidence.
+
+## Get Involved
+
+Contact **James Chuo** by contacting the [IDSWG Leadership Team](../join.qmd).
+
+```{=html}
+<p style="margin-top:1.5rem;"><a href="../subteams.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> All Sub-teams</a></p>
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::
