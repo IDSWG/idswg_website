@@ -115,7 +115,7 @@ Patient engagement is not a peripheral activity for the IDSWG, it is embedded in
 
 Activities have included joint workshops with patient communities, consultation on endpoint selection for rare disease trials, and contributions to the NEED Sub-team's work on evidence standards for rare diseases.
 
-If you are interested in leading this sub-team, please contact **Mercedeh Ghadessi** ([mercedeh.ghadessi@bayer.com](mailto:mercedeh.ghadessi@bayer.com)).
+If you are interested in leading this sub-team, please contact **Mercedeh Ghadessi** ([asadahshuidswg@gmail.com](mailto:asadahshuidswg@gmail.com)).
 
 ```{=html}
 <p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>

@@ -24,7 +24,7 @@ For methodology and design guidance, see the [Resources](resources.qmd) page.
 
 ## Interested in Contributing?
 
-The app is maintained by the Concept, Methodology and Framework Sub-team. If you have relevant expertise in Shiny development, data curation, or master protocol methodology and want to contribute, contact **Bryan McComb** ([bryan.mccomb@pfizer.com](mailto:bryan.mccomb@pfizer.com)) or **Courtney Henry** ([courtney.n.henry@gsk.com](mailto:courtney.n.henry@gsk.com)).
+The app is maintained by the Concept, Methodology and Framework Sub-team. If you have relevant expertise in Shiny development, data curation, or master protocol methodology and want to contribute, contact the IDSWG at [asadahshuidswg@gmail.com](mailto:asadahshuidswg@gmail.com) or the IDSWG at [asadahshuidswg@gmail.com](mailto:asadahshuidswg@gmail.com).
 
 ```{=html}
 <p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>

@@ -85,7 +85,7 @@ The MPWG operates through five active sub-streams. Click any card to learn more 
 - Huml RA, Collyar D, Antonijevic Z, Beckman RA et al. Aiding the adoption of master protocols by optimizing patient engagement. *Therapeutic Innovation and Regulatory Science*, 57: 1136–1147 (2023).
 - Lu C*, Beckman RA* et al. Tumor agnostic approvals: insights and practical considerations. *Clinical Cancer Research*, 30: 480–488 (2024).
 
-A full list of MPWG publications will be available soon.
+See the [full publications list](../publications.qmd) for additional MPWG papers.
 
 ## Get Involved
 

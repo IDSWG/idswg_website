@@ -1,6 +1,6 @@
 ---
 pagetitle: "Join Us | DahShu IDSWG"
-description: "Join the DahShu IDSWG, membership is open and free."
+description: "Join the DahShu IDSWG. Membership is free and open to statisticians, clinicians, regulators, and patient advocates working in innovative clinical trial design."
 image: /images/IDSWG_Banner.png
 page-layout: full
 ---
@@ -39,53 +39,35 @@ page-layout: full
 
 ## Contact the Leadership Team {#contact}
 
+All inquiries are handled through the group's shared inbox. Whether you want to join a sub-team, propose a collaboration, or ask a question, email us and your message will reach the right people.
+
 ```{=html}
-<table class="kol-table" style="margin-top:0.5rem;" aria-label="Leadership contact information">
+<div style="background:white;border:1px solid #d8e3f0;border-left:4px solid #0D2B6B;border-radius:0 4px 4px 0;padding:1.25rem 1.5rem;margin:1rem 0;max-width:520px;">
+  <p style="margin:0 0 0.75rem;font-size:0.95rem;"><strong>General inquiries and sub-team interest:</strong></p>
+  <a href="mailto:asadahshuidswg@gmail.com" style="display:inline-flex;align-items:center;gap:7px;background:#0D2B6B;color:white;font-weight:600;font-size:0.9rem;padding:0.55rem 1.4rem;border-radius:4px;text-decoration:none;">
+    <i class="bi bi-envelope-fill"></i> asadahshuidswg@gmail.com
+  </a>
+</div>
+```
+
+The IDSWG leadership team:
+
+```{=html}
+<table class="kol-table" style="margin-top:0.5rem;" aria-label="Leadership team">
   <thead>
     <tr>
       <th scope="col">Role</th>
       <th scope="col">Name</th>
       <th scope="col">Organization</th>
-      <th scope="col">Contact</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Chair</td>
-      <td>Robert A. Beckman, M.D.</td>
-      <td>Georgetown University</td>
-      <td><a href="mailto:eniac1915@gmail.com">Email Robert Beckman</a></td>
-    </tr>
-    <tr>
-      <td>Vice Chair &amp; Leader of Community</td>
-      <td>Mercedeh Ghadessi, Ph.D.</td>
-      <td>Bayer</td>
-      <td><a href="mailto:mercedeh.ghadessi@bayer.com">Email Mercedeh Ghadessi</a></td>
-    </tr>
-    <tr>
-      <td>Vice Chair &amp; Leader of External Collaborations</td>
-      <td>Alex Sverdlov, Ph.D.</td>
-      <td>Novartis</td>
-      <td><a href="mailto:alex.sverdlov@novartis.com">Email Alex Sverdlov</a></td>
-    </tr>
-    <tr>
-      <td>Co-Leader of Community</td>
-      <td>Courtney Henry, Ph.D.</td>
-      <td>GSK</td>
-      <td><a href="mailto:courtney.n.henry@gsk.com">Email Courtney Henry</a></td>
-    </tr>
-    <tr>
-      <td>Co-Leader of External Collaborations (Non-EU)</td>
-      <td>Bryan McComb, Ph.D.</td>
-      <td>Pfizer</td>
-      <td><a href="mailto:bryan.mccomb@pfizer.com">Email Bryan McComb</a></td>
-    </tr>
-    <tr>
-      <td>Co-Leader of External Collaborations (EU)</td>
-      <td>Johannes Krisam, Ph.D.</td>
-      <td>Boehringer Ingelheim</td>
-      <td><a href="mailto:Johannes.krisam@boehringer-ingelheim.com">Email Johannes Krisam</a></td>
-    </tr>
+    <tr><td>Chair</td><td>Robert A. Beckman, M.D.</td><td>Georgetown University</td></tr>
+    <tr><td>Vice Chair &amp; Leader of Community</td><td>Mercedeh Ghadessi, M.Sc.</td><td>Bayer</td></tr>
+    <tr><td>Vice Chair &amp; Leader of External Collaborations</td><td>Alex Sverdlov, Ph.D.</td><td>Novartis</td></tr>
+    <tr><td>Co-Leader of Community</td><td>Courtney Henry, Ph.D.</td><td>GSK</td></tr>
+    <tr><td>Co-Leader of External Collaborations (Non-EU)</td><td>Bryan McComb, Ph.D.</td><td>Pfizer</td></tr>
+    <tr><td>Co-Leader of External Collaborations (EU)</td><td>Johannes Krisam, Ph.D.</td><td>Boehringer Ingelheim</td></tr>
   </tbody>
 </table>
 ```
@@ -109,7 +91,7 @@ Fill out the form below to express your interest in the IDSWG and be added to co
   <a href="https://forms.gle/htzA2sGdJ6X9YfXU7" target="_blank" rel="noopener" style="display:inline-block;background:#0D2B6B;color:white;font-weight:700;font-size:0.88rem;padding:0.6rem 1.6rem;border-radius:3px;text-decoration:none;font-family:'Source Sans 3',Arial,sans-serif;text-transform:uppercase;letter-spacing:0.04em;">
     <i class="bi bi-envelope-fill"></i>&nbsp; Get Involved
   </a>
-  <p style="font-size:0.78rem;color:#999;margin-top:0.85rem;margin-bottom:0;">Your information is held by DahShu and is not shared with third parties.</p>
+  <p style="font-size:0.78rem;color:#707070;margin-top:0.85rem;margin-bottom:0;">Your information is held by DahShu and is not shared with third parties.</p>
 </div>
 
 <p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>

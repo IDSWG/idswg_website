@@ -1,0 +1,38 @@
+---
+title: "[Title of this reflection]"
+author: "[Your name, affiliation]"
+date: 2026-01-01
+description: "[One sentence summarizing this piece, shown on the history landing page.]"
+image: /images/IDSWG_Banner.png
+categories: [Reflection]
+---
+
+<!-- ============================================================
+     HOW TO USE THIS TEMPLATE
+     ============================================================
+     1. Make a COPY of this file. Do not edit the template itself.
+     2. Name the copy using the date and a short title, for example:
+        2026-Q1-the-early-years.qmd
+     3. Fill in the four fields at the top (between the --- lines):
+          title       = the headline of your piece
+          author      = your name and affiliation
+          date        = the date, written as YYYY-MM-DD (e.g. 2026-03-15)
+          description = one sentence shown in the archive listing
+     4. Write your reflection below, replacing the sample text.
+     5. Delete this instruction block when you are done.
+
+     Writing tips:
+       - Aim for 300 to 600 words. Short is good.
+       - Write in your own voice. This is a personal reflection,
+         not a formal report.
+       - Leave a blank line between paragraphs.
+       - To add a heading within your piece, start a line with "## ".
+     ============================================================ -->
+
+*[Write your reflection here. Replace this paragraph and the ones below.]*
+
+*[A good opening sets the scene: what moment, period, or theme are you writing about, and why does it matter to the group's story?]*
+
+*[Continue with two or three short paragraphs. You might describe how something came to be, a challenge the group faced, the people involved, or how the work has changed over time.]*
+
+*[Close with a thought about what this means for the group today or where it points for the future.]*

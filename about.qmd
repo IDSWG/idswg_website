@@ -1,6 +1,6 @@
 ---
 pagetitle: "About | DahShu IDSWG"
-description: "Leadership team, organizational structure, and membership information for the DahShu IDSWG."
+description: "Meet the leadership team and learn how the DahShu IDSWG is organized, from its core team to its sub-teams and initiatives in innovative clinical trial design."
 image: /images/IDSWG_Banner.png
 page-layout: full
 ---
@@ -40,7 +40,7 @@ The IDSWG is led by a volunteer leadership team drawn from pharmaceutical indust
       <br/><br/>
       Pediatric oncologist and mathematical biologist with five decades of modeling experience across carcinogenesis, treatment sequences in oncology, and clinical trial optimization. Eighteen years in pharmaceutical cancer therapy development: 23 therapies advanced to first-in-human studies, 5 to late-stage development, and 2 approved. Approximately 130 scientific publications and 4 patents. Co-editor of <em>Platform Trials in Drug Development.</em> Scientific Advisor to the Senior Vice President for Research, Georgetown University. Elected Fellow, ASA.
       <br/><br/>
-      <i class="bi bi-envelope-fill"></i> <a href="mailto:eniac1915@gmail.com">Email Robert Beckman</a> &nbsp;|&nbsp; <a href="mailto:robert.beckman@georgetown.edu">Georgetown email</a>
+
     </div>
   </div>
 </div>
@@ -52,7 +52,7 @@ The IDSWG is led by a volunteer leadership team drawn from pharmaceutical indust
     <div class="leader-header">
       <div class="avatar avatar-mg" aria-hidden="true">MG</div>
       <div class="leader-meta">
-        <h4>Mercedeh Ghadessi, Ph.D.</h4>
+        <h4>Mercedeh Ghadessi, M.Sc.</h4>
         <div class="leader-title">Vice Chair &amp; Leader of Community</div>
         <div class="leader-affil">Bayer U.S. LLC, Director, Oncology Medical Statistics</div>
       </div>
@@ -62,7 +62,6 @@ The IDSWG is led by a volunteer leadership team drawn from pharmaceutical indust
       <br/><br/>
       Biostatistician with over 22 years of experience specializing in oncology and cardiovascular research. Co-leads the NEED Sub-team.
       <br/><br/>
-      <i class="bi bi-envelope-fill"></i> <a href="mailto:mercedeh.ghadessi@bayer.com">Email Mercedeh Ghadessi</a>
     </div>
   </div>
 
@@ -80,7 +79,6 @@ The IDSWG is led by a volunteer leadership team drawn from pharmaceutical indust
       <br/><br/>
       Over 18 years in pharmaceutical biostatistics. Co-authored 50+ peer-reviewed publications and four books in the CRC Biostatistics Series. Co-leads the Randomization WG.
       <br/><br/>
-      <i class="bi bi-envelope-fill"></i> <a href="mailto:alex.sverdlov@novartis.com">Email Alex Sverdlov</a>
     </div>
   </div>
 
@@ -98,7 +96,6 @@ The IDSWG is led by a volunteer leadership team drawn from pharmaceutical indust
       <br/><br/>
       Co-leads the Master Protocol Concept, Methodology and Framework Sub-team and the StatBridge Future Leaders Program alongside Bryan McComb.
       <br/><br/>
-      <i class="bi bi-envelope-fill"></i> <a href="mailto:courtney.n.henry@gsk.com">Email Courtney Henry</a>
     </div>
   </div>
 
@@ -116,7 +113,6 @@ The IDSWG is led by a volunteer leadership team drawn from pharmaceutical indust
       <br/><br/>
       Co-leads the Master Protocol Concept, Methodology and Framework Sub-team and the StatBridge Future Leaders Program alongside Courtney Henry.
       <br/><br/>
-      <i class="bi bi-envelope-fill"></i> <a href="mailto:bryan.mccomb@pfizer.com">Email Bryan McComb</a>
     </div>
   </div>
 
@@ -134,7 +130,6 @@ The IDSWG is led by a volunteer leadership team drawn from pharmaceutical indust
       <br/><br/>
       Co-chair of the IDSWG Randomization Working Group, named PSI SIG of the Year in 2025.
       <br/><br/>
-      <i class="bi bi-envelope-fill"></i> <a href="mailto:Johannes.krisam@boehringer-ingelheim.com">Email Johannes Krisam</a>
     </div>
   </div>
 

@@ -1,6 +1,6 @@
 ---
 pagetitle: "DahShu IDSWG | Innovative Design Scientific Working Group"
-description: "A cross-industry scientific community advancing innovative clinical trial design for the benefit of patients worldwide."
+description: "The DahShu Innovative Design Scientific Working Group is a cross-industry community of ~200 members advancing master protocols, adaptive designs, and innovative clinical trial methodology."
 image: images/IDSWG_Banner.png
 page-layout: full
 ---
@@ -65,7 +65,7 @@ Members share a common premise: well-designed clinical trials are among the most
 <script>
 const SPOTLIGHT = [
   { initials:"RAB", color:"linear-gradient(135deg,#0D2B6B,#1A5CB8)", name:"Robert A. Beckman, M.D.", role:"Chair, IDSWG · Georgetown University Medical Center", bio:"Pediatric oncologist and mathematical biologist. ~130 publications, 4 patents. Co-editor of Platform Trials in Drug Development. Elected Fellow, ASA." },
-  { initials:"MG",  color:"linear-gradient(135deg,#164e63,#0e7490)", name:"Mercedeh Ghadessi, Ph.D.",       role:"Vice Chair & Leader of Community · Bayer", bio:"Biostatistician with over 22 years of experience in oncology and cardiovascular research. Co-leads the NEED Sub-team on rare diseases." },
+  { initials:"MG",  color:"linear-gradient(135deg,#164e63,#0e7490)", name:"Mercedeh Ghadessi, M.Sc.",       role:"Vice Chair & Leader of Community · Bayer", bio:"Biostatistician with over 22 years of experience in oncology and cardiovascular research. Co-leads the NEED Sub-team on rare diseases." },
   { initials:"AS",  color:"linear-gradient(135deg,#1e3a5f,#2563eb)", name:"Alex Sverdlov, Ph.D.",    role:"Vice Chair & Leader of External Collaborations · Novartis", bio:"Over 18 years in pharmaceutical biostatistics. Co-authored 50+ peer-reviewed publications and four books. Co-leads the Randomization Working Group." },
   { initials:"BM",  color:"linear-gradient(135deg,#7c2d12,#c2410c)", name:"Bryan McComb, Ph.D.",     role:"Co-Leader of External Collaborations · Pfizer", bio:"Associate Director of Biostatistics. Co-leads the Master Protocol Methodology Sub-team and the StatBridge Future Leaders Program." },
   { initials:"CH",  color:"linear-gradient(135deg,#166534,#15803d)", name:"Courtney Henry, Ph.D.",   role:"Co-Leader of Community · GSK", bio:"Co-leads the Master Protocol Methodology Sub-team and the StatBridge Future Leaders Program." },

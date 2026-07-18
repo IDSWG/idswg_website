@@ -146,7 +146,7 @@ h3 { font-size: 1.15rem; color: #1A5CB8; margin-top: 1.5rem; margin-bottom: 0.5r
 .last-updated {
   display: inline-block;
   font-size: 0.78rem;
-  color: #888;
+  color: #6b6b6b;
   font-family: 'Source Sans 3', Arial, sans-serif;
   margin-top: 2rem;
   padding-top: 1rem;
@@ -370,7 +370,7 @@ main.content                          { padding: 0 !important; margin: 0 !import
 /* --- Partner Logos (text-based) --- */
 .partners-section { padding: 1.5rem 2.5rem; background: white; border-top: 1px solid #e3eaf4; border-bottom: 1px solid #e3eaf4; }
 .partners-inner { max-width: 1020px; margin: 0 auto; }
-.partners-label { font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.1em; color: #888; font-weight: 600; font-family: 'Source Sans 3', Arial, sans-serif; margin-bottom: 1rem; text-align: center; }
+.partners-label { font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.1em; color: #6b6b6b; font-weight: 600; font-family: 'Source Sans 3', Arial, sans-serif; margin-bottom: 1rem; text-align: center; }
 .partner-logos { display: flex; flex-wrap: wrap; gap: 0.6rem; justify-content: center; align-items: center; }
 .partner-pill {
   font-family: 'Source Sans 3', Arial, sans-serif;
@@ -441,7 +441,7 @@ main.content                          { padding: 0 !important; margin: 0 !import
 /* --- News listing overrides --- */
 .news-post-card { background: white; border: 1px solid #d8e3f0; border-radius: 6px; padding: 1.25rem 1.5rem; margin-bottom: 1rem; }
 .news-post-card h3 { font-size: 1.1rem; color: #0D2B6B; margin-bottom: 0.25rem; }
-.news-post-card .news-meta { font-size: 0.8rem; color: #888; margin-bottom: 0.5rem; font-family: 'Source Sans 3', Arial, sans-serif; }
+.news-post-card .news-meta { font-size: 0.8rem; color: #6b6b6b; margin-bottom: 0.5rem; font-family: 'Source Sans 3', Arial, sans-serif; }
 .news-category { display: inline-block; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; padding: 0.15rem 0.5rem; border-radius: 2px; margin-right: 0.4rem; }
 .cat-publication { background: #dbeafe; color: #1e40af; }
 .cat-award      { background: #fef3c7; color: #92400e; }
@@ -491,7 +491,7 @@ main.content                          { padding: 0 !important; margin: 0 !import
 .type-umbrella { background: #fef3c7; color: #92400e; }
 .type-adaptive { background: #ede9fe; color: #5b21b6; }
 .repo-count { font-size: 0.84rem; color: #666; margin-bottom: 0.75rem; font-family: 'Source Sans 3', Arial, sans-serif; }
-.no-results { text-align: center; padding: 2rem; color: #888; font-style: italic; }
+.no-results { text-align: center; padding: 2rem; color: #6b6b6b; font-style: italic; }
 
 /* --- Regulatory card grid --- */
 .reg-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.1rem; margin-top: 1.5rem; }
@@ -502,7 +502,7 @@ main.content                          { padding: 0 !important; margin: 0 !import
 .reg-ich  .reg-agency { color: #7c3aed; }
 .reg-nih  .reg-agency { color: #065f46; }
 .reg-card h4 { font-size: 0.95rem; color: #0D2B6B; font-family: 'Source Sans 3', Arial, sans-serif; font-weight: 700; margin-bottom: 0.3rem; flex: 1; }
-.reg-card .reg-date { font-size: 0.78rem; color: #999; margin-bottom: 0.4rem; font-family: 'Source Sans 3', Arial, sans-serif; }
+.reg-card .reg-date { font-size: 0.78rem; color: #707070; margin-bottom: 0.4rem; font-family: 'Source Sans 3', Arial, sans-serif; }
 .reg-card p { font-size: 0.85rem; color: #555; margin: 0 0 0.7rem; line-height: 1.55; }
 .reg-card a { font-size: 0.83rem; font-weight: 600; color: #1A5CB8; }
 .reg-new { display: inline-block; background: #fee2e2; color: #991b1b; font-size: 0.68rem; font-weight: 700; padding: 0.1rem 0.45rem; border-radius: 2px; text-transform: uppercase; letter-spacing: 0.05em; margin-left: 0.4rem; vertical-align: middle; }
@@ -636,3 +636,15 @@ a:focus-visible, button:focus-visible {
 @media (max-width: 600px) {
   .announcement-inner { flex-direction: column; align-items: flex-start; gap: 0.85rem; }
 }
+
+/* Footer social icons */
+.footer-social {
+  color: white;
+  font-size: 1.35rem;
+  margin-left: 0.4rem;
+  opacity: 0.85;
+  transition: opacity 0.15s;
+  text-decoration: none;
+}
+.footer-social:hover { opacity: 1; color: white; }
+.footer-social i { vertical-align: middle; }

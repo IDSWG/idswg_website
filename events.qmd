@@ -40,14 +40,14 @@ page-layout: full
       <li>Discuss future priorities and opportunities for engagement within the IDSWG</li>
     </ul>
     <br/>
-    <span style="color:#888;font-size:0.85rem;">Additional details, including the featured speaker and room location, will be posted here as they are confirmed.</span>
+    <span style="color:#6b6b6b;font-size:0.85rem;">Additional details, including the featured speaker and room location, will be posted here as they are confirmed.</span>
   </div>
 
   <div style="background:white;border:1px solid #d8e3f0;border-left:4px solid #4A7FA5;border-radius:0 4px 4px 0;padding:1.1rem 1.3rem;margin-bottom:0.85rem;">
     <span class="pub-year" style="background:#4A7FA5;">Ongoing 2026</span><br/>
     <strong>KOL Lecture Series</strong><br/>
     Monthly webinars, Fridays 11:00 AM to 12:00 PM EST. <a href="https://us02web.zoom.us/j/87688020761?pwd=VHBWb1NPcFlZTXI5cTNLeVRwOUlYZz09" target="_blank" rel="noopener">Zoom link</a><br/>
-    <span style="color:#888;font-size:0.85rem;">The 2026 speaker schedule is being confirmed. Contact the KOL committee to present or nominate a speaker.</span>
+    <span style="color:#6b6b6b;font-size:0.85rem;">The 2026 speaker schedule is being confirmed. Contact the KOL committee to present or nominate a speaker.</span>
   </div>
 
 </div>

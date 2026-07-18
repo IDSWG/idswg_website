@@ -1,5 +1,6 @@
 ---
 pagetitle: "MPWG, Basket Trials Sub-stream"
+description: "MPWG Basket Trials sub-stream: confirmatory basket trial design, simulation, and real-world data applications in oncology and rare diseases."
 page-layout: full
 ---
 
@@ -36,7 +37,7 @@ The Basket Trials sub-stream focuses on the design, simulation, and real-world a
 - Yuan SS, Chen A, He L et al. On group sequential enrichment design for basket trial. *Statistics in Biopharmaceutical Research*, 8: 293–306 (2016).
 - Chen C, Li N, Yuan S et al. Statistical design and considerations of a Phase 3 basket trial for simultaneous investigation of multiple tumor types. *Statistics in Biopharmaceutical Research*, 8: 248–257 (2016).
 
-A full list of basket trial publications will be available soon.
+See the [full publications list](../publications.qmd) for additional basket trial papers.
 
 ## Recent Presentations
 
@@ -45,7 +46,7 @@ A full list of basket trial publications will be available soon.
 
 ## Get Involved
 
-Contact the [IDSWG Leadership Team](../join.qmd) or reach out directly to Robert A. Beckman at [eniac1915@gmail.com](mailto:eniac1915@gmail.com).
+To get involved, email the IDSWG at [asadahshuidswg@gmail.com](mailto:asadahshuidswg@gmail.com) and your message will reach the sub-stream lead.
 
 ```{=html}
 <p style="margin-top:1.5rem;"><a href="mpwg.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> Back to MPWG</a></p>

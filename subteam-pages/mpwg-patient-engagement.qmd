@@ -1,5 +1,6 @@
 ---
 pagetitle: "MPWG, Patient Engagement Sub-stream"
+description: "MPWG Patient Engagement sub-stream: integrating patient and caregiver perspectives into master protocol trial design."
 page-layout: full
 ---
 

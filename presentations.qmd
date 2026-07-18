@@ -41,14 +41,14 @@ This page houses downloadable and interactive materials from the IDSWG community
     <span class="pub-year">Coming Soon</span><br/>
     <strong>Master Protocol Repository App</strong><br/>
     Interactive application for browsing and filtering master protocol trials by design type, disease area, phase, and sponsor. Built and maintained by the MPWG Concept, Methodology and Framework Sub-team.<br/>
-    <em style="color:#888;font-size:0.85rem;">Deployment in progress. Link will be added here when available.</em>
+    <em style="color:#6b6b6b;font-size:0.85rem;">Deployment in progress. Link will be added here when available.</em>
   </li>
 </ul>
 ```
 
 ## Adding Slides or Materials
 
-To add slides, an app, or other materials, contact Bryan McComb ([bryan.mccomb@pfizer.com](mailto:bryan.mccomb@pfizer.com)) or Courtney Henry ([courtney.n.henry@gsk.com](mailto:courtney.n.henry@gsk.com)) with the file and confirmation of permission to share. See the [README](https://github.com) for technical instructions on uploading files to the `files/` folder.
+To add slides, an app, or other materials, contact Bryan McComb ([asadahshuidswg@gmail.com](mailto:asadahshuidswg@gmail.com)) or Courtney Henry ([asadahshuidswg@gmail.com](mailto:asadahshuidswg@gmail.com)) with the file and confirmation of permission to share. See the [README](https://github.com) for technical instructions on uploading files to the `files/` folder.
 
 ```{=html}
 <p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>

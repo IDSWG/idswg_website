@@ -1,5 +1,6 @@
 ---
 pagetitle: "MPWG, Operations Sub-stream"
+description: "MPWG Operations sub-stream: the cross-functional and strategic realities of running master protocol trials in practice."
 page-layout: full
 ---
 

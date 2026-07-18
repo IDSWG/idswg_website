@@ -1,0 +1,44 @@
+---
+pagetitle: "Privacy & Contact | DahShu IDSWG"
+description: "How the DahShu IDSWG handles contact information and how to reach the group."
+image: images/IDSWG_Banner.png
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section hero-about" id="main-content">
+  <h1>Privacy &amp; Contact</h1>
+  <p class="lead">How we handle your information, and how to reach the group.</p>
+</div>
+```
+
+::: {.content-section}
+
+## Contact Information You Share
+
+When you fill out the Get Involved form, you provide your name, email, organization, and areas of interest. This information is used only to:
+
+- Communicate with you about IDSWG activities, events, and opportunities
+- Understand the interests and composition of our membership
+- Connect you with the sub-teams and initiatives you express interest in
+
+Your information is not sold, rented, or shared with third parties outside the IDSWG and its sponsoring organization, DahShu. You may ask to be removed from our communications or have your information deleted at any time by contacting the leadership team.
+
+## Information on This Website
+
+This website lists the names, roles, and organizational affiliations of IDSWG leadership and sub-team members to support the group's collaborative and outreach activities. Individual email addresses are not published; all contact is routed through the group's shared inbox. If you are listed and wish to update or remove your information, please email us at asadahshuidswg@gmail.com.
+
+## How This Website Works
+
+This site is a static website. It does not use tracking cookies, advertising, or analytics that identify individual visitors. External links (to journals, regulatory agencies, and partner organizations) are governed by the privacy policies of those sites.
+
+## How to Reach Us
+
+For general inquiries, to join a sub-team, or to ask about anything on this site, use the [Get Involved form](https://forms.gle/htzA2sGdJ6X9YfXU7){target="_blank" rel="noopener"} or email the group directly at [asadahshuidswg@gmail.com](mailto:asadahshuidswg@gmail.com).
+
+For questions specific to DahShu, the group's sponsoring organization, visit [dahshu.wildapricot.org](https://dahshu.wildapricot.org){target="_blank" rel="noopener"}.
+
+```{=html}
+<p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
+```
+:::

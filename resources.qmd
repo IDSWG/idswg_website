@@ -20,7 +20,7 @@ page-layout: full
 
 ::: {.content-section}
 
-IDSWG-authored guidance documents and white papers will be listed here as they are published.
+For IDSWG-authored guidance documents and white papers, see the [Publications page](publications.qmd).
 
 ## FDA Guidance {#fda}
 

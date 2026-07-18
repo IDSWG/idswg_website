@@ -31,7 +31,7 @@ A manuscript on AI/ML for drug repurposing in rare diseases is currently in prep
 
 ## Get Involved
 
-Contact **Mercedeh Ghadessi** ([mercedeh.ghadessi@bayer.com](mailto:mercedeh.ghadessi@bayer.com)).
+To get involved, email the IDSWG at [asadahshuidswg@gmail.com](mailto:asadahshuidswg@gmail.com) and your message will reach the sub-team leads.
 
 ```{=html}
 <p style="margin-top:1.5rem;"><a href="../subteams.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> All Sub-teams</a></p>

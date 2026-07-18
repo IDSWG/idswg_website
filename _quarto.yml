@@ -5,7 +5,7 @@ project:
 website:
   title: "DahShu IDSWG"
   description: "Innovative Design Scientific Working Group: Advancing Innovative Clinical Trial Design Worldwide"
-  favicon: images/IDSWG_Logo.png
+  favicon: images/favicon.png
   site-url: "https://idswg.github.io/idswg_website"
   search: true
   open-graph:
@@ -25,7 +25,11 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "About"
-        href: about.qmd
+        menu:
+          - text: "Leadership & Structure"
+            href: about.qmd
+          - text: "History & Achievements"
+            href: history/index.qmd
       - text: "Sub-teams"
         menu:
           - text: "All Sub-teams"
@@ -47,6 +51,8 @@ website:
             href: subteam-pages/rwe.qmd
           - text: "Decision-Making"
             href: subteam-pages/decision-making.qmd
+      - text: "Publications"
+        href: publications.qmd
       - text: "Events & KOL"
         href: events.qmd
       - text: "Resources"
@@ -64,8 +70,11 @@ website:
     background: "#0D2B6B"
     foreground: "white"
     left: "© 2025 DahShu Innovative Design Scientific Working Group"
-    center: "[LinkedIn Community](https://www.linkedin.com/groups/18890018/){.footer-link}"
-    right: ""
+    center: "[Privacy & Contact](privacy.qmd){.footer-link} &nbsp;·&nbsp; [Get Involved](https://forms.gle/htzA2sGdJ6X9YfXU7){.footer-link}"
+    right: |
+      <a href="https://www.linkedin.com/groups/18890018/" class="footer-social" aria-label="IDSWG LinkedIn group" target="_blank" rel="noopener"><i class="bi bi-linkedin"></i></a> <a href="mailto:asadahshuidswg@gmail.com" class="footer-social" aria-label="Email the IDSWG"><i class="bi bi-envelope-fill"></i></a>
+
+lang: en
 
 format:
   html:

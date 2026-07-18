@@ -1,5 +1,6 @@
 ---
 pagetitle: "MPWG, Regulatory Sub-stream"
+description: "MPWG Regulatory sub-stream: tracking FDA and EMA guidance and maintaining the systematic literature review of master protocol trials."
 page-layout: full
 ---
 

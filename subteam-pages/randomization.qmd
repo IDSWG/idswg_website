@@ -38,7 +38,7 @@ Visit the [Randomization WG website](https://randomization-wg.org/){target="_bla
 
 ## Get Involved
 
-Contact **Johannes Krisam** ([Johannes.krisam@boehringer-ingelheim.com](mailto:Johannes.krisam@boehringer-ingelheim.com)) or **Alex Sverdlov** ([alex.sverdlov@novartis.com](mailto:alex.sverdlov@novartis.com)).
+To get involved, email the IDSWG at [asadahshuidswg@gmail.com](mailto:asadahshuidswg@gmail.com) and your message will reach the sub-team leads.
 
 ```{=html}
 <p style="margin-top:1.5rem;"><a href="../subteams.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> All Sub-teams</a></p>

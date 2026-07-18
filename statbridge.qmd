@@ -79,8 +79,7 @@ There are no formal requirements for participation. The program is open to membe
 <div class="cta-box">
   <h3>Ready to Connect?</h3>
   <p>Contact either StatBridge co-lead to learn more or express your interest in the program.</p>
-  <a href="mailto:bryan.mccomb@pfizer.com" class="btn-cta">Email Bryan McComb</a>
-  <a href="mailto:courtney.n.henry@gsk.com" class="btn-cta btn-cta-outline">Email Courtney Henry</a>
+  <a href="mailto:asadahshuidswg@gmail.com" class="btn-cta">Email the IDSWG</a>
 </div>
 <p class="last-updated"><i class="bi bi-clock"></i> Page last reviewed: <span class="auto-date"></span></p>
 ```

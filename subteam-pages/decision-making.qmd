@@ -1,5 +1,6 @@
 ---
 pagetitle: "Decision-Making Sub-team | DahShu IDSWG"
+description: "IDSWG Decision-Making Sub-team: quantitative approaches to go/no-go decisions, portfolio optimization, and Bayesian decision analysis in drug development."
 page-layout: full
 ---
 
@@ -32,7 +33,7 @@ The Decision-Making Sub-team focuses on the frameworks, tools, and methodologies
 - Beckman RA, Natanegara F, Singh P et al. Advancing innovative clinical trials to efficiently deliver medicines to patients. *Nature Reviews Drug Discovery*, 21: 543–544 (2022).
 - Gould AL, Campbell RK, Loewy JW, Beckman RA et al. A framework for assessing the impact of Accelerated Approval. *PLoS One* (2022). [doi:10.1371/journal.pone.0265712](https://doi.org/10.1371/journal.pone.0265712)
 
-A full list of decision-making-related publications will be available soon.
+See the [full publications list](../publications.qmd) for additional decision-making-related papers.
 
 ## Get Involved
 

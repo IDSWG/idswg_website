@@ -1,5 +1,6 @@
 ---
 pagetitle: "MPWG, Methodology & Concept Sub-stream"
+description: "MPWG Methodology & Concept sub-stream: framework development, simulation methodology, and estimand considerations for master protocol trials."
 page-layout: full
 ---
 
@@ -37,8 +38,7 @@ The sub-stream contributed to the multidisciplinary MPWG book (*Master Protocol 
 
 This sub-stream is actively recruiting new members. Contact the [IDSWG Leadership Team](../join.qmd) or reach out directly to the co-leads:
 
-- Bryan McComb, Ph.D., [bryan.mccomb@pfizer.com](mailto:bryan.mccomb@pfizer.com)
-- Courtney Henry, Ph.D., [courtney.n.henry@gsk.com](mailto:courtney.n.henry@gsk.com)
+To get involved, email the IDSWG at [asadahshuidswg@gmail.com](mailto:asadahshuidswg@gmail.com) and your message will reach the co-leads, Bryan McComb and Courtney Henry.
 
 ```{=html}
 <p style="margin-top:1.5rem;"><a href="mpwg.qmd" class="share-btn"><i class="bi bi-arrow-left"></i> Back to MPWG</a></p>

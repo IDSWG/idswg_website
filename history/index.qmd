@@ -1,0 +1,90 @@
+---
+pagetitle: "History & Achievements | DahShu IDSWG"
+description: "The history and achievements of the DahShu Innovative Design Scientific Working Group."
+image: /images/IDSWG_Banner.png
+page-layout: full
+listing:
+  id: history-listing
+  contents: pieces
+  sort: "date desc"
+  type: default
+  fields: [date, title, description, author]
+  sort-ui: false
+  filter-ui: false
+  feed: false
+---
+
+```{=html}
+<div class="hero-section hero-about" id="main-content">
+  <h1>History &amp; Achievements</h1>
+  <p class="lead">The story of the IDSWG and the milestones that have marked its progress.</p>
+</div>
+
+<div style="max-width:900px;margin:1.25rem auto 0;padding:1.1rem 1.5rem;background:#FEF3C7;border:1px solid #F5C77E;border-left:4px solid #D97706;border-radius:0 4px 4px 0;">
+  <p style="margin:0;font-size:0.95rem;color:#7c4a03;"><i class="bi bi-cone-striped" style="margin-right:6px;"></i><strong>Under Construction.</strong> This page is being developed. The quarterly reflections and achievement milestones below are still being written and expanded.</p>
+</div>
+
+<div class="page-jumpnav" aria-label="Page sections">
+  <a href="#reflections">Reflections</a>
+  <a href="#milestones">Milestones</a>
+</div>
+```
+
+::: {.content-section}
+
+## Quarterly Reflections {#reflections}
+
+Each quarter, a member of the IDSWG community contributes a short piece on the group's history, its people, or a moment that shaped its direction. Together these build a living record of where the group came from and why its work matters.
+
+:::{#history-listing}
+:::
+
+:::
+
+```{=html}
+<div class="content-section-alt">
+<div class="inner">
+<h2 class="section-title" id="milestones">Milestones</h2>
+<p>Key moments in the group's history. This timeline is being expanded.</p>
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-dot major"></div>
+    <div class="timeline-year">2015</div>
+    <div class="timeline-title">Group Founded</div>
+    <p class="timeline-desc">The Innovative Design Scientific Working Group is established, and the KOL Lecture Series begins its monthly webinars on innovative trial design.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-year">2020</div>
+    <div class="timeline-title">First NEED Publication; Randomization WG Launches</div>
+    <p class="timeline-desc">The NEED sub-team publishes its roadmap for using historical controls, and the Randomization Working Group launches as a joint initiative.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-dot major"></div>
+    <div class="timeline-year">2022</div>
+    <div class="timeline-title">Platform Trials Book; Transition to DahShu</div>
+    <p class="timeline-desc"><em>Platform Trials in Drug Development</em> is published, and the group transitions to operating under the DahShu umbrella.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-year">2023</div>
+    <div class="timeline-title">Master Protocol Working Group Formed</div>
+    <p class="timeline-desc">The ASA-DahShu IDSWG Master Protocol Working Group is formally constituted as a joint effort with ASA and BSWG.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-dot major"></div>
+    <div class="timeline-year">2025</div>
+    <div class="timeline-title">Awards, Publications, and Growth</div>
+    <p class="timeline-desc">The Randomization WG is named PSI SIG of the Year. The NEED sub-team publishes its cell and gene therapy paper. Membership reaches approximately 200, and the group launches its first website.</p>
+  </div>
+</div>
+
+<p style="font-size:0.9rem;color:#666;margin-top:1rem;">For the full record of publications and presentations, see the <a href="../publications.qmd">Publications</a> page.</p>
+</div>
+</div>
+
+<div class="content-section" style="max-width:1020px;margin:0 auto;padding:1.5rem 2.5rem;">
+<p class="last-updated"><i class="bi bi-clock"></i> New reflections are added each quarter.</p>
+</div>
+```

@@ -1,0 +1,4 @@
+# Shared settings applied to every reflection piece
+format:
+  html:
+    page-layout: full
