@@ -23,7 +23,7 @@ The Regulatory sub-stream monitors and engages with FDA, EMA, and international 
 
 ## Current Focus Areas
 
-- Monitoring FDA and EMA guidance on master protocols, adaptive designs, and complex innovative designs
+- Monitoring FDA and EMA guidance on master protocols, adaptive designs, and complex innovative designs. The FDA issued a revised draft Master Protocols guidance in June 2026 (replacing the December 2023 draft, adding a new basket trials section), open for comment through August 24, 2026
 - Systematic Literature Review update, covering master protocol publications from 2020 to 2025 (volunteers needed for full-text review and data extraction)
 - Engaging with regulatory stakeholders on platform trial guidance development
 

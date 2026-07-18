@@ -29,7 +29,7 @@ page-layout: full
 
 Each sub-team is a volunteer working group centered on a specific methodological or operational topic. Participation is entirely flexible, members may observe, contribute, take a leadership role, or propose a new sub-team at any time. The Leadership Team provides mentorship and consultation to anyone starting or stepping into a leadership role.
 
-The IDSWG actively welcomes members from patient advocacy organizations. Patient advocates participate as full members across sub-teams, particularly in NEED, Patient Engagement, and the KOL Lecture Series, and bring perspectives that improve the relevance and accessibility of the group's scientific outputs.
+The IDSWG actively welcomes members from across the public health and drug development spectrum, including statisticians, clinicians, pharmacometricians, regulators, epidemiologists, health economists, ethicists, patient advocates, and clinical operations professionals. This interdisciplinary mix participates as full members across sub-teams and brings the range of perspectives needed to make innovative trial designs rigorous, practical, and relevant to the people they are meant to serve.
 
 To join a sub-team or propose a new one, contact Bob, Mercedeh, or Alex, contact details are on the [About](about.qmd) page.
 :::

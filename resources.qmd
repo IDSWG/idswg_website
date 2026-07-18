@@ -33,10 +33,10 @@ For IDSWG-authored guidance documents and white papers, see the [Publications pa
     <a href="https://www.fda.gov/media/78504/download" target="_blank" rel="noopener">Download PDF</a>
   </div>
   <div class="reg-card reg-fda">
-    <div class="reg-agency">FDA, September 2022</div>
-    <h4>Master Protocols: Efficient Clinical Trial Design Strategies</h4>
-    <p>FDA guidance on basket, umbrella, and platform trial design, covering estimands, statistical analysis plans, and regulatory interaction.</p>
-    <a href="https://www.fda.gov/media/120721/download" target="_blank" rel="noopener">Download PDF</a>
+    <div class="reg-agency">FDA, June 2026 <span class="reg-new">New</span></div>
+    <h4>Master Protocols for Drug and Biological Product Development (Revised Draft)</h4>
+    <p>Revised draft guidance issued June 24, 2026, replacing the December 2023 draft. Provides updated recommendations on the design, conduct, analysis, and regulatory submission of trials run under a master protocol, and adds a new section on evaluating drug effects across multiple diseases or disease subtypes in basket trials. Also details communication expectations between master protocol sponsors, drug sponsors, and the FDA, and expands guidance on informed consent. Open for comment through August 24, 2026. Docket: FDA-2023-D-5259.</p>
+    <a href="https://www.federalregister.gov/documents/2026/06/24/2026-12620/master-protocols-for-drug-and-biological-product-development-draft-guidance-for-industry" target="_blank" rel="noopener">Federal Register notice</a>
   </div>
   <div class="reg-card reg-fda">
     <div class="reg-agency">FDA, December 2023</div>
