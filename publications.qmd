@@ -38,7 +38,7 @@ page-layout: full
 
   <li>
     <span class="pub-year">2025</span><br/>
-    Wu Y, Lu C, Aregay M et al. Company sponsored platform trials: recommendations and lessons learned from cross-industry interviews. <em>Therapeutic Innovation and Regulatory Science</em> (2025). <a href="https://doi.org/10.1007/s43441-025-00792-0" target="_blank" rel="noopener">doi:10.1007/s43441-025-00792-0</a>
+    Wu Y, Lu C, Aregay M et al. Company sponsored platform trials: recommendations and lessons learned from cross-industry interviews. <em>Therapeutic Innovation and Regulatory Science</em>, 60(1) (2026). <a href="https://doi.org/10.1007/s43441-025-00792-0" target="_blank" rel="noopener">doi:10.1007/s43441-025-00792-0</a>
   </li>
 
   <li>
@@ -96,13 +96,9 @@ page-layout: full
 
   <li>
     <span class="pub-year">2022</span><br/>
-    Beckman RA, Antonijevic Z, Ghadessi M, Xu H, Chen C, Liu Y, Tang R. Innovation in clinical development of rare diseases in children and adults: small populations and/or small patients. <em>Pediatric Drugs</em>, 24: 657–669 (2022).
+    Beckman RA, Antonijevic Z, Ghadessi M, Xu H, Chen C, Liu Y, Tang R. Innovations in clinical development in rare diseases of children and adults: small populations and/or small patients. <em>Pediatric Drugs (Paediatr Drugs)</em>, 24(6): 657–669 (2022). <a href="https://link.springer.com/article/10.1007/s40272-022-00538-7" target="_blank" rel="noopener">doi:10.1007/s40272-022-00538-7</a>
   </li>
 
-  <li>
-    <span class="pub-year">2022</span><br/>
-    Master protocols for rare disease clinical trials: perspective from the Innovative Design Scientific Working Group (IDSWG). <em>Pediatric Drugs</em> (2022). <a href="https://link.springer.com/article/10.1007/s40272-022-00538-7" target="_blank" rel="noopener">doi:10.1007/s40272-022-00538-7</a>
-  </li>
 
   <li>
     <span class="pub-year">2022</span><br/>
@@ -141,7 +137,7 @@ page-layout: full
 
   <li>
     <span class="pub-year">2019</span><br/>
-    Ondra T, Jobjörnsson S, Beckman RA, Burman CF, König F, Stallard N, Posch M. Optimized adaptive enrichment designs. <em>Statistical Methods in Medical Research</em>, 28: 2096–2111 (2019).
+    Ondra T, Jobjörnsson S, Beckman RA, Burman CF, König F, Stallard N, Posch M. Optimized adaptive enrichment designs. <em>Statistical Methods in Medical Research</em>, 28(7): 2096–2111 (2019). <a href="https://doi.org/10.1177/0962280217747312" target="_blank" rel="noopener">doi:10.1177/0962280217747312</a>
   </li>
 
   <li>
@@ -194,7 +190,7 @@ page-layout: full
 
   <li>
     <span class="pub-year">2016</span><br/>
-    Ondra T, Jobjörnsson S, Beckman RA, Burman CF, König F, Stallard N, Posch M. Optimizing trial designs for targeted therapies. <em>PLoS One</em>, 11:e0163726 (2016).
+    Ondra T, Jobjörnsson S, Beckman RA, Burman CF, König F, Stallard N, Posch M. Optimizing trial designs for targeted therapies. <em>PLoS One</em>, 11(9):e0163726 (2016). <a href="https://doi.org/10.1371/journal.pone.0163726" target="_blank" rel="noopener">doi:10.1371/journal.pone.0163726</a>
   </li>
 
   <li>
@@ -251,9 +247,9 @@ page-layout: full
 ```{=html}
 <ul class="pub-list">
   <li>
-    <span class="pub-year">In Press</span><br/>
-    <strong>Master Protocol Clinical Trial for Efficient Evidence Generation</strong><br/>
-    Co-edited by Robert A. Beckman and Zoran Antonijevic. Development Strategies, Study Designs, Operational Engagement, and Case Studies. Nearing final publication.
+    <span class="pub-year">2025</span><br/>
+    <strong>Master Protocol Clinical Trials for Evidence Generation: Strategies, Designs, Operations, and Case Studies</strong><br/>
+    Edited by Ruixiao Lu, Jingjing Ye, Chengxing (Cindy) Lu, and William Wang. Chapman &amp; Hall/CRC Biostatistics Series (2025). ISBN 9781032544526. Multiple IDSWG members contributed chapters, including Robert A. Beckman, Cindy Lu, Kristine Broglio, Cong Chen, Philip He, Heng Zhou, Helen Zhou, Linchen He, Martin Posch, Olivier Collignon, Thomas Gwise, and others.
   </li>
   <li>
     <span class="pub-year">In Press</span><br/>
