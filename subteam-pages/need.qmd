@@ -15,7 +15,7 @@ page-layout: full
 ::: {.content-section}
 ## Overview
 
-The NEED Sub-team is co-led by **Sammi Tang** (Astellas) and **Mercedeh Ghadessi** (Bayer). It focuses on the nature and extent of evidence needed to support drug approval in rare disease settings, where small patient populations, natural history variability, and limited precedent create unique methodological challenges.
+The NEED Sub-team is co-led by **Qi Zhang** (Sanofi) and **Daoyuan Shi** (BlueRock Therapeutics). It focuses on the nature and extent of evidence needed to support drug approval in rare disease settings, where small patient populations, natural history variability, and limited precedent create unique methodological challenges.
 
 Patient perspectives are central to the sub-team's work. Rare disease trials often involve patient populations with few treatment options, strong advocacy communities, and high stakes in regulatory decisions. The sub-team works to ensure that evidence standards reflect what matters to patients and their families, not only what is statistically tractable.
 

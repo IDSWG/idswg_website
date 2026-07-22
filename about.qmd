@@ -60,7 +60,7 @@ The IDSWG is led by a volunteer leadership team drawn from pharmaceutical indust
     <div class="leader-responsibilities">
       Responsible for organizing leadership and core team meetings, documenting meeting minutes, and collecting membership lists from sub-team leaders. Leads community-wide announcements and monitors regulatory guidance developments.
       <br/><br/>
-      Biostatistician with over 22 years of experience specializing in oncology and cardiovascular research. Co-leads the NEED Sub-team.
+      Biostatistician with over 22 years of experience specializing in oncology and cardiovascular research.
       <br/><br/>
     </div>
   </div>

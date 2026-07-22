@@ -54,7 +54,7 @@ To join a sub-team or propose a new one, contact Bob, Mercedeh, or Alex, contact
 
   <div class="subteam-card" id="need">
     <h4><a href="subteam-pages/need.qmd">NEED, Rare Diseases</a></h4>
-    <div class="subteam-leads">Co-leads: Mercedeh Ghadessi (Bayer), Sammi Tang (Astellas)</div>
+    <div class="subteam-leads">Co-leads: Qi Zhang (Sanofi), Daoyuan Shi (BlueRock Therapeutics)</div>
     <p>Nature and Extent of Evidence Needed for Rare Diseases. Published three peer-reviewed papers since 2020 on historical controls, decentralized clinical trials, and cell and gene therapy. A manuscript on AI/ML for drug repurposing in rare diseases is currently in preparation with the AI/ML sub-team.</p>
   </div>
 
