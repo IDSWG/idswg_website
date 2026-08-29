@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://idswg.github.io/idswg_website/sitemap.xml

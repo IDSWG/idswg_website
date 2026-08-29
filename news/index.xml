@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>DahShu IDSWG</title>
+<link>https://idswg.github.io/idswg_website/news/</link>
+<atom:link href="https://idswg.github.io/idswg_website/news/index.xml" rel="self" type="application/rss+xml"/>
+<description>News and updates from the DahShu Innovative Design Scientific Working Group.</description>
+<image>
+<url>https://idswg.github.io/idswg_website/images/IDSWG_Banner.png</url>
+<title>DahShu IDSWG</title>
+<link>https://idswg.github.io/idswg_website/news/</link>
+</image>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Wed, 24 Sep 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Annual Meeting Recap, September 24, 2025</title>
+  <link>https://idswg.github.io/idswg_website/news/posts/2025-09-24-annual-meeting.html</link>
+  <description><![CDATA[ 
+<!-- Skip link (accessibility) -->
+Skip to main content
+
+<!-- Back to top button -->
+
+  <i class="bi bi-arrow-up"></i>
+
+
+<!-- JSON-LD structured data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "DahShu Innovative Design Scientific Working Group",
+  "alternateName": "DahShu IDSWG",
+  "url": "https://idswg.github.io/idswg_website",
+  "logo": "https://idswg.github.io/images/IDSWG_Logo_white.png",
+  "description": "A cross-industry scientific community advancing innovative clinical trial design for the benefit of patients worldwide.",
+  "foundingDate": "2015"
+}
+</script>
+
+<script>
+// Auto-generate last-reviewed dates
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.auto-date').forEach(function(el) {
+    el.textContent = new Date().toLocaleDateString('en-US', {month:'long', year:'numeric'});
+  });
+});
+
+// Back to top
+const btn = document.getElementById('back-to-top');
+if (btn) {
+  window.addEventListener('scroll', () => btn.classList.toggle('visible', window.scrollY > 400));
+  btn.addEventListener('click', e => { e.preventDefault(); window.scrollTo({top:0,behavior:'smooth'}); });
+}
+
+// HERO OVERLAP FIX
+// Quarto wraps all content in padded divs. This script runs immediately after
+// the DOM is ready and physically moves the .hero-banner div to sit directly
+// inside the body (before #quarto-content), completely bypassing Quarto's
+// padding. This is the only reliable cross-platform fix.
+document.addEventListener('DOMContentLoaded', function() {
+  var banner = document.querySelector('.hero-banner');
+  var quartoContent = document.getElementById('quarto-content');
+  if (banner && quartoContent) {
+    // Move banner to be a sibling of #quarto-content, just before it
+    quartoContent.parentNode.insertBefore(banner, quartoContent);
+    // Also ensure no margin on the hero-section inside quarto-content
+    var hero = document.querySelector('.hero-section');
+    if (hero) { hero.style.marginTop = '0'; }
+  }
+
+  // Also hide any rendered title block
+  var titleBlock = document.getElementById('title-block-header');
+  if (titleBlock) { titleBlock.style.display = 'none'; }
+});
+</script>
+
+
+
+
+<p>The IDSWG held its annual face-to-face meeting on September 24, 2025, bringing together members from across the group’s sub-teams and initiatives.</p>
+<p>The evening opened with welcome remarks from Chair Bob Beckman, followed by introductory presentations on the IDSWG, DahShu, and collaboration opportunities with the Bayesian Scientific Working Group (BSWG). Bryan McComb presented the StatBridge Future Leaders Program, highlighting the initiative’s goals and upcoming activities.</p>
+<p>Sub-team reports covered the Master Protocol Working Group (Concept, Methodology and Framework; Regulatory), the Randomization Working Group, the AI/ML Sub-team, the NEED Sub-team for Rare Diseases, and the KOL Lecture Series.</p>
+<p>Key updates from the meeting:</p>
+<ul>
+<li>The Concept, Methodology and Framework sub-stream of the MPWG is undergoing a reboot under new leadership from Bryan McComb and Courtney Henry. New members are welcome.</li>
+<li>The Regulatory Sub-team is seeking volunteers to support the 2020–2025 Systematic Literature Review update.</li>
+<li>Two leadership positions remain open for the 2025–2026 term, nominations are welcome.</li>
+</ul>
+<p>The next annual meeting date will be announced via the DahShu community. <a href="https://dahshu.wildapricot.org">Subscribe to receive updates</a>.</p>
+
+
+
+ ]]></description>
+  <category>Event</category>
+  <guid>https://idswg.github.io/idswg_website/news/posts/2025-09-24-annual-meeting.html</guid>
+  <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://idswg.github.io/idswg_website/images/IDSWG_Banner.png" medium="image" type="image/png" height="49" width="144"/>
+</item>
+<item>
+  <title>IDSWG Introduction at ASA-BIOP RISW 2025</title>
+  <link>https://idswg.github.io/idswg_website/news/posts/2025-09-21-risw-2025-presentation.html</link>
+  <description><![CDATA[ 
+<!-- Skip link (accessibility) -->
+Skip to main content
+
+<!-- Back to top button -->
+
+  <i class="bi bi-arrow-up"></i>
+
+
+<!-- JSON-LD structured data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "DahShu Innovative Design Scientific Working Group",
+  "alternateName": "DahShu IDSWG",
+  "url": "https://idswg.github.io/idswg_website",
+  "logo": "https://idswg.github.io/images/IDSWG_Logo_white.png",
+  "description": "A cross-industry scientific community advancing innovative clinical trial design for the benefit of patients worldwide.",
+  "foundingDate": "2015"
+}
+</script>
+
+<script>
+// Auto-generate last-reviewed dates
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.auto-date').forEach(function(el) {
+    el.textContent = new Date().toLocaleDateString('en-US', {month:'long', year:'numeric'});
+  });
+});
+
+// Back to top
+const btn = document.getElementById('back-to-top');
+if (btn) {
+  window.addEventListener('scroll', () => btn.classList.toggle('visible', window.scrollY > 400));
+  btn.addEventListener('click', e => { e.preventDefault(); window.scrollTo({top:0,behavior:'smooth'}); });
+}
+
+// HERO OVERLAP FIX
+// Quarto wraps all content in padded divs. This script runs immediately after
+// the DOM is ready and physically moves the .hero-banner div to sit directly
+// inside the body (before #quarto-content), completely bypassing Quarto's
+// padding. This is the only reliable cross-platform fix.
+document.addEventListener('DOMContentLoaded', function() {
+  var banner = document.querySelector('.hero-banner');
+  var quartoContent = document.getElementById('quarto-content');
+  if (banner && quartoContent) {
+    // Move banner to be a sibling of #quarto-content, just before it
+    quartoContent.parentNode.insertBefore(banner, quartoContent);
+    // Also ensure no margin on the hero-section inside quarto-content
+    var hero = document.querySelector('.hero-section');
+    if (hero) { hero.style.marginTop = '0'; }
+  }
+
+  // Also hide any rendered title block
+  var titleBlock = document.getElementById('title-block-header');
+  if (titleBlock) { titleBlock.style.display = 'none'; }
+});
+</script>
+
+
+
+
+<p>Robert A. Beckman (Chair, DahShu IDSWG; Georgetown University) presented an introduction to the IDSWG at the <strong>ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop (RISW 2025)</strong> on September 21, 2025.</p>
+<p>The presentation covered the IDSWG’s vision and leadership structure, opportunities for members, current sub-team and initiative updates, and selected past work, including the 2020 Complex Innovative Design (CID) Conference, recent ISBS activity, the Master Protocol book project, and the Rare Disease book project with Ray Huml.</p>
+<p>The slide deck is available for download below.</p>
+<p><strong><a href="../../files/IDSWG_Introduction_RISW_2025.pptx">Download: IDSWG Introduction, RISW 2025 (PPTX)</a></strong></p>
+<p>Topics covered:</p>
+<ul>
+<li>IDSWG vision, mission, and membership (~200 members from pharma, biotech, academia, and health authorities in the US, Europe, and Japan)</li>
+<li>Leadership team introductions (Beckman, Ghadessi, Sverdlov)</li>
+<li>Sub-team structure and current chairs</li>
+<li>StatBridge Future Leaders Program</li>
+<li>ASA-DahShu MPWG updates, book nearing completion, three manuscripts in preparation</li>
+<li>Basket Trials, RWE, Oncology, NEED, AI/Integrated Scientific Learning, Randomization sub-team reports</li>
+<li>Planned initiatives: newsletter, website, book series, joint patient community workshops, EU society collaborations</li>
+</ul>
+<p>For questions about the IDSWG, contact <a href="mailto:eniac1915@gmail.com">Bob Beckman</a>, <a href="mailto:mercedeh.ghadessi@bayer.com">Mercedeh Ghadessi</a>, or <a href="mailto:alex.sverdlov@novartis.com">Alex Sverdlov</a>.</p>
+
+
+
+ ]]></description>
+  <category>Event</category>
+  <category>Presentation</category>
+  <guid>https://idswg.github.io/idswg_website/news/posts/2025-09-21-risw-2025-presentation.html</guid>
+  <pubDate>Sun, 21 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://idswg.github.io/idswg_website/images/IDSWG_Banner.png" medium="image" type="image/png" height="49" width="144"/>
+</item>
+<item>
+  <title>Randomization Working Group Named PSI SIG of the Year</title>
+  <link>https://idswg.github.io/idswg_website/news/posts/2025-06-12-psi-sog-award.html</link>
+  <description><![CDATA[ 
+<!-- Skip link (accessibility) -->
+Skip to main content
+
+<!-- Back to top button -->
+
+  <i class="bi bi-arrow-up"></i>
+
+
+<!-- JSON-LD structured data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "DahShu Innovative Design Scientific Working Group",
+  "alternateName": "DahShu IDSWG",
+  "url": "https://idswg.github.io/idswg_website",
+  "logo": "https://idswg.github.io/images/IDSWG_Logo_white.png",
+  "description": "A cross-industry scientific community advancing innovative clinical trial design for the benefit of patients worldwide.",
+  "foundingDate": "2015"
+}
+</script>
+
+<script>
+// Auto-generate last-reviewed dates
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.auto-date').forEach(function(el) {
+    el.textContent = new Date().toLocaleDateString('en-US', {month:'long', year:'numeric'});
+  });
+});
+
+// Back to top
+const btn = document.getElementById('back-to-top');
+if (btn) {
+  window.addEventListener('scroll', () => btn.classList.toggle('visible', window.scrollY > 400));
+  btn.addEventListener('click', e => { e.preventDefault(); window.scrollTo({top:0,behavior:'smooth'}); });
+}
+
+// HERO OVERLAP FIX
+// Quarto wraps all content in padded divs. This script runs immediately after
+// the DOM is ready and physically moves the .hero-banner div to sit directly
+// inside the body (before #quarto-content), completely bypassing Quarto's
+// padding. This is the only reliable cross-platform fix.
+document.addEventListener('DOMContentLoaded', function() {
+  var banner = document.querySelector('.hero-banner');
+  var quartoContent = document.getElementById('quarto-content');
+  if (banner && quartoContent) {
+    // Move banner to be a sibling of #quarto-content, just before it
+    quartoContent.parentNode.insertBefore(banner, quartoContent);
+    // Also ensure no margin on the hero-section inside quarto-content
+    var hero = document.querySelector('.hero-section');
+    if (hero) { hero.style.marginTop = '0'; }
+  }
+
+  // Also hide any rendered title block
+  var titleBlock = document.getElementById('title-block-header');
+  if (titleBlock) { titleBlock.style.display = 'none'; }
+});
+</script>
+
+
+
+
+<p>The IDSWG Randomization Working Group has been named <strong>PSI Special Interest Group of the Year</strong> for 2025, a recognition of its sustained contributions to randomization methodology in clinical trials.</p>
+<p>The Randomization WG is co-chaired by Johannes Krisam and Kerstine Carter (both Boehringer Ingelheim) and Alex Sverdlov (Novartis). The group currently has approximately 50 active and inactive members spanning pharmaceutical industry (19), academia (24), and other organizations (7), with representation across Europe/UK and the USA.</p>
+<p>The WG’s work focuses on moving beyond standard permuted-block randomization to bring awareness of modern methodological advances in the field. Activities include monthly member meetings, open learning sessions, a <a href="https://www.randomizationwg.com">dedicated website</a>, and a growing library of publications, slide sets, and educational resources.</p>
+<p>Congratulations to the Randomization WG team on this well-deserved recognition.</p>
+
+
+
+ ]]></description>
+  <category>Award</category>
+  <guid>https://idswg.github.io/idswg_website/news/posts/2025-06-12-psi-sog-award.html</guid>
+  <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://idswg.github.io/idswg_website/images/IDSWG_Banner.png" medium="image" type="image/png" height="49" width="144"/>
+</item>
+<item>
+  <title>New Publication: Cell and Gene Therapy for Rare Diseases</title>
+  <link>https://idswg.github.io/idswg_website/news/posts/2025-03-01-cell-gene-therapy-paper.html</link>
+  <description><![CDATA[ 
+<!-- Skip link (accessibility) -->
+Skip to main content
+
+<!-- Back to top button -->
+
+  <i class="bi bi-arrow-up"></i>
+
+
+<!-- JSON-LD structured data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "DahShu Innovative Design Scientific Working Group",
+  "alternateName": "DahShu IDSWG",
+  "url": "https://idswg.github.io/idswg_website",
+  "logo": "https://idswg.github.io/images/IDSWG_Logo_white.png",
+  "description": "A cross-industry scientific community advancing innovative clinical trial design for the benefit of patients worldwide.",
+  "foundingDate": "2015"
+}
+</script>
+
+<script>
+// Auto-generate last-reviewed dates
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.auto-date').forEach(function(el) {
+    el.textContent = new Date().toLocaleDateString('en-US', {month:'long', year:'numeric'});
+  });
+});
+
+// Back to top
+const btn = document.getElementById('back-to-top');
+if (btn) {
+  window.addEventListener('scroll', () => btn.classList.toggle('visible', window.scrollY > 400));
+  btn.addEventListener('click', e => { e.preventDefault(); window.scrollTo({top:0,behavior:'smooth'}); });
+}
+
+// HERO OVERLAP FIX
+// Quarto wraps all content in padded divs. This script runs immediately after
+// the DOM is ready and physically moves the .hero-banner div to sit directly
+// inside the body (before #quarto-content), completely bypassing Quarto's
+// padding. This is the only reliable cross-platform fix.
+document.addEventListener('DOMContentLoaded', function() {
+  var banner = document.querySelector('.hero-banner');
+  var quartoContent = document.getElementById('quarto-content');
+  if (banner && quartoContent) {
+    // Move banner to be a sibling of #quarto-content, just before it
+    quartoContent.parentNode.insertBefore(banner, quartoContent);
+    // Also ensure no margin on the hero-section inside quarto-content
+    var hero = document.querySelector('.hero-section');
+    if (hero) { hero.style.marginTop = '0'; }
+  }
+
+  // Also hide any rendered title block
+  var titleBlock = document.getElementById('title-block-header');
+  if (titleBlock) { titleBlock.style.display = 'none'; }
+});
+</script>
+
+
+
+
+<p>The NEED Sub-team’s latest paper has been published in <em>Therapeutic Innovation &amp; Regulatory Science</em>:</p>
+<p><strong>Insights on Clinical Development of Cell and Gene Therapy for Rare Diseases, by DahShu Innovative Design Scientific Working Group (IDSWG)</strong></p>
+<p>This paper represents the third major publication from the NEED (Nature and Extent of Evidence Needed for Rare Diseases) Sub-team, co-led by Mercedeh Ghadessi (Bayer) and Sammi Tang (Astellas). It follows earlier publications on historical controls (2020) and decentralized clinical trials (2023).</p>
+<p>The paper addresses clinical development considerations specific to cell and gene therapy in rare disease settings, covering design approaches, regulatory landscape, and operational challenges.</p>
+<p><a href="https://link.springer.com/article/10.1007/s43441-025-00853-4">Read the paper</a>, doi:10.1007/s43441-025-00853-4</p>
+
+
+
+ ]]></description>
+  <category>Publication</category>
+  <guid>https://idswg.github.io/idswg_website/news/posts/2025-03-01-cell-gene-therapy-paper.html</guid>
+  <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://idswg.github.io/idswg_website/images/IDSWG_Banner.png" medium="image" type="image/png" height="49" width="144"/>
+</item>
+<item>
+  <title>MPWG Publication: Company Sponsored Platform Trials</title>
+  <link>https://idswg.github.io/idswg_website/news/posts/2025-01-15-platform-trials-paper.html</link>
+  <description><![CDATA[ 
+<!-- Skip link (accessibility) -->
+Skip to main content
+
+<!-- Back to top button -->
+
+  <i class="bi bi-arrow-up"></i>
+
+
+<!-- JSON-LD structured data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "DahShu Innovative Design Scientific Working Group",
+  "alternateName": "DahShu IDSWG",
+  "url": "https://idswg.github.io/idswg_website",
+  "logo": "https://idswg.github.io/images/IDSWG_Logo_white.png",
+  "description": "A cross-industry scientific community advancing innovative clinical trial design for the benefit of patients worldwide.",
+  "foundingDate": "2015"
+}
+</script>
+
+<script>
+// Auto-generate last-reviewed dates
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.auto-date').forEach(function(el) {
+    el.textContent = new Date().toLocaleDateString('en-US', {month:'long', year:'numeric'});
+  });
+});
+
+// Back to top
+const btn = document.getElementById('back-to-top');
+if (btn) {
+  window.addEventListener('scroll', () => btn.classList.toggle('visible', window.scrollY > 400));
+  btn.addEventListener('click', e => { e.preventDefault(); window.scrollTo({top:0,behavior:'smooth'}); });
+}
+
+// HERO OVERLAP FIX
+// Quarto wraps all content in padded divs. This script runs immediately after
+// the DOM is ready and physically moves the .hero-banner div to sit directly
+// inside the body (before #quarto-content), completely bypassing Quarto's
+// padding. This is the only reliable cross-platform fix.
+document.addEventListener('DOMContentLoaded', function() {
+  var banner = document.querySelector('.hero-banner');
+  var quartoContent = document.getElementById('quarto-content');
+  if (banner && quartoContent) {
+    // Move banner to be a sibling of #quarto-content, just before it
+    quartoContent.parentNode.insertBefore(banner, quartoContent);
+    // Also ensure no margin on the hero-section inside quarto-content
+    var hero = document.querySelector('.hero-section');
+    if (hero) { hero.style.marginTop = '0'; }
+  }
+
+  // Also hide any rendered title block
+  var titleBlock = document.getElementById('title-block-header');
+  if (titleBlock) { titleBlock.style.display = 'none'; }
+});
+</script>
+
+
+
+
+<p>The Master Protocol Working Group has published a new paper in <em>Therapeutic Innovation and Regulatory Science</em>:</p>
+<p><strong>Company Sponsored Platform Trials: Recommendations and Lessons Learned from Cross-Industry Interviews</strong> Wu, Y., Lu, C., Aregay, M. et al.</p>
+<p>This paper reports findings from cross-industry interviews examining the design, operational, and strategic challenges of company-sponsored platform trials. It offers practical recommendations for organizations considering this trial structure.</p>
+<p>The MPWG is a joint working group co-chaired by Cindy Lu (AstraZeneca) and Robert Beckman (Georgetown University), operating under the ASA, DahShu IDSWG, and BSWG umbrella.</p>
+<p><a href="https://doi.org/10.1007/s43441-025-00792-0">Read the paper</a>, doi:10.1007/s43441-025-00792-0</p>
+
+
+
+ ]]></description>
+  <category>Publication</category>
+  <guid>https://idswg.github.io/idswg_website/news/posts/2025-01-15-platform-trials-paper.html</guid>
+  <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://idswg.github.io/idswg_website/images/IDSWG_Banner.png" medium="image" type="image/png" height="49" width="144"/>
+</item>
+</channel>
+</rss>
