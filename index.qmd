@@ -36,8 +36,8 @@ page-layout: full
     <div class="announcement-badge"><i class="bi bi-calendar-event"></i> Save the Date</div>
     <div class="announcement-content">
       <h3>2026 DahShu-IDSWG Annual Meeting</h3>
-      <p class="announcement-detail"><strong>September 16, 2026</strong> &nbsp;·&nbsp; 5:30–7:15 PM &nbsp;·&nbsp; Bethesda North Marriott, Bethesda, MD</p>
-      <p class="announcement-sub">Held in conjunction with the ASA BioPharma Regulatory-Industry Statistics Workshop (RISW).</p>
+      <p class="announcement-detail"><strong>Wednesday, September 16, 2026</strong> &nbsp;·&nbsp; 5:30–7:15 p.m. &nbsp;·&nbsp; Bethesda North Marriott, Bethesda, MD</p>
+      <p class="announcement-sub">Featuring invited speaker James Travis, Ph.D. (U.S. FDA). Held in conjunction with the ASA BioPharma RISW.</p>
       <a href="events.qmd#upcoming" class="announcement-link">Meeting details →</a>
     </div>
   </div>

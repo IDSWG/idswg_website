@@ -27,20 +27,26 @@ page-layout: full
 <div class="pub-list" style="list-style:none;padding:0;">
 
   <div style="background:white;border:1px solid #d8e3f0;border-left:4px solid #0D2B6B;border-radius:0 4px 4px 0;padding:1.3rem 1.5rem;margin-bottom:0.85rem;">
-    <span class="pub-year">Save the Date</span><br/>
+    <span class="pub-year">Sep 16, 2026</span><br/>
     <strong style="font-size:1.1rem;">2026 DahShu-IDSWG Annual Meeting</strong><br/><br/>
-    Please save the date for the 2026 DahShu-IDSWG Annual Meeting, held in conjunction with the ASA BioPharma Regulatory-Industry Statistics Workshop (RISW).<br/><br/>
-    <strong>Date:</strong> September 16, 2026<br/>
-    <strong>Time:</strong> 5:30–7:15 PM<br/>
-    <strong>Location:</strong> Bethesda North Marriott, Bethesda, MD (room details to follow)<br/><br/>
-    <strong>The meeting will provide an opportunity to:</strong>
+    You are warmly invited to the 2026 DahShu-IDSWG Annual Meeting, held in conjunction with the ASA BioPharma Regulatory-Industry Statistics Workshop (RISW).<br/><br/>
+    <strong>Date:</strong> Wednesday, September 16, 2026<br/>
+    <strong>Time:</strong> 5:30&ndash;7:15 p.m.<br/>
+    <strong>Location:</strong> Bethesda North Marriott, Bethesda, MD<br/>
+    <span style="color:#6b6b6b;font-size:0.88rem;">Specific meeting room details will be shared closer to the date.</span><br/><br/>
+    <strong>Invited Speaker:</strong> James Travis, Ph.D. (U.S. FDA)<br/><br/>
+    The annual meeting provides an opportunity for members of the IDSWG community to reconnect, hear updates on ongoing initiatives and sub-team activities, and discuss priorities and opportunities for the year ahead.<br/><br/>
+    <strong>Agenda</strong>
     <ul style="margin:0.5rem 0 0;padding-left:1.2rem;">
-      <li>Connect with fellow IDSWG members</li>
-      <li>Hear updates on ongoing initiatives and sub-team activities</li>
-      <li>Discuss future priorities and opportunities for engagement within the IDSWG</li>
+      <li>Welcome and introduction</li>
+      <li>Updates and highlights from IDSWG sub-teams</li>
+      <li>Invited presentation by James Travis, Ph.D. (U.S. FDA)</li>
+      <li>Synthesis and forward-looking discussion</li>
+      <li>Closing remarks</li>
     </ul>
     <br/>
-    <span style="color:#6b6b6b;font-size:0.85rem;">Additional details, including the featured speaker and room location, will be posted here as they are confirmed.</span>
+    <strong>Optional Networking Dinner</strong><br/>
+    An informal networking dinner is planned for 8:00 p.m. following the meeting. Additional details will be confirmed and shared closer to the date.
   </div>
 
   <div style="background:white;border:1px solid #d8e3f0;border-left:4px solid #4A7FA5;border-radius:0 4px 4px 0;padding:1.1rem 1.3rem;margin-bottom:0.85rem;">
@@ -71,7 +77,7 @@ To present or nominate a speaker for 2026, contact any committee member.
 
 ## Annual Meeting {#annual-meeting}
 
-IDSWG holds an annual face-to-face meeting for members and collaborators, held in conjunction with the ASA BioPharma Regulatory-Industry Statistics Workshop (RISW). The **2026 Annual Meeting** is scheduled for September 16, 2026 at the Bethesda North Marriott (see Upcoming Events above for details).
+IDSWG holds an annual face-to-face meeting for members and collaborators, held in conjunction with the ASA BioPharma Regulatory-Industry Statistics Workshop (RISW). The **2026 Annual Meeting** will be held on Wednesday, September 16, 2026 at the Bethesda North Marriott in Bethesda, MD, featuring invited speaker James Travis, Ph.D. (U.S. FDA). See Upcoming Events above for the full agenda.
 
 The most recent meeting took place on **September 24, 2025**, and included introductory presentations on the IDSWG, DahShu, and BSWG collaboration opportunities, and the StatBridge Future Leaders Program, followed by sub-team reports from across the group's working groups.
 
